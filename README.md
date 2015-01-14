@@ -49,6 +49,19 @@
 
 
 
+----------
+
+### 对话框 ###
+
+
+[https://github.com/AndroidBase/AlertDialogPro](https://github.com/AndroidBase/AlertDialogPro)
+
+![](https://github.com/fengdai/AlertDialogPro/raw/master/image/holo_light_dialog_only.png)
+![](https://github.com/fengdai/AlertDialogPro/raw/master/image/flavored_material_light.png)
+
+
+
+
 
 
 ----------
@@ -74,6 +87,17 @@
 ### android代码实例仓库 ###
 
 [https://github.com/AndroidBase/android-code-repos](https://github.com/AndroidBase/android-code-repos "android-code-repos")
+
+### android-image-map ###
+[https://github.com/longtaoge/android-image-map](https://github.com/longtaoge/android-image-map)
+
+
+### AndroidDemoProjects ###
+
+[https://github.com/longtaoge/AndroidDemoProjects](https://github.com/longtaoge/AndroidDemoProjects)
+
+### Gif ###
+[https://github.com/longtaoge/Dynamic-imageView](https://github.com/longtaoge/Dynamic-imageView)
 
 ### QuickNews ###
 [https://github.com/AndroidBase/QuickNews](https://github.com/AndroidBase/QuickNews)
