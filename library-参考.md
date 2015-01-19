@@ -16,3 +16,7 @@
 ### TimelyTextView ###
 [https://github.com/AndroidBase/TimelyTextView](https://github.com/AndroidBase/TimelyTextView)
 ![](https://github.com/AndroidBase/TimelyTextView/raw/master/screenshot.gif)
+
+### SmoothProgressBar ###
+[https://github.com/AndroidBase/SmoothProgressBar](https://github.com/AndroidBase/SmoothProgressBar)
+![](https://github.com/AndroidBase/SmoothProgressBar/raw/master/screenshots/SPB_sample.gif)
