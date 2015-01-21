@@ -71,3 +71,29 @@
 [https://github.com/Todd-Davies/ProgressWheel](https://github.com/Todd-Davies/ProgressWheel)
 
 ![](https://github.com/Todd-Davies/ProgressWheel/raw/master/sample_image_2.png)![](https://github.com/Todd-Davies/ProgressWheel/raw/master/sample_image_4.png)![](https://github.com/Todd-Davies/ProgressWheel/raw/master/sample_image.png)
+
+### DraggablePane ###
+[https://github.com/pedrovgs/DraggablePanel](https://github.com/pedrovgs/DraggablePanel)
+
+![](https://github.com/pedrovgs/DraggablePanel/raw/develop/art/screenshot3.gif)
+
+### pinned-section-listview ###
+[https://github.com/AndroidBase/pinned-section-listview](https://github.com/AndroidBase/pinned-section-listview)
+
+![](https://github.com/AndroidBase/pinned-section-listview/raw/master/screen2.png)![](https://github.com/AndroidBase/pinned-section-listview/raw/master/screen3.png)
+
+### SuperToasts ###
+[https://github.com/AndroidBase/SuperToasts](https://github.com/AndroidBase/SuperToasts)
+![](https://camo.githubusercontent.com/b52711b589229453cde3c15cebc921285f01d9b8/687474703a2f2f69313031362e70686f746f6275636b65742e636f6d2f616c62756d732f61663238342f547572626f70776e65642f7375706572746f617374735f67726f75705f73637265656e73686f745f74776f2e706e67)
+
+### android-stackblur 毛玻璃 ###
+[https://github.com/AndroidBase/android-stackblur](https://github.com/AndroidBase/android-stackblur)
+![](https://camo.githubusercontent.com/821ae0abdf62af50624fc429f79b2d47f4f22d53/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74322e706e67)
+### BlurEffectForAndroidDesign 毛玻璃 ###
+[https://github.com/longtaoge/BlurEffectForAndroidDesign](https://github.com/longtaoge/BlurEffectForAndroidDesign)
+![](https://github.com/longtaoge/BlurEffectForAndroidDesign)
+
+### TutorialView ###
+[https://github.com/AndroidBase/TutorialView](https://github.com/AndroidBase/TutorialView)
+
+![](https://github.com/AndroidBase/TutorialView/raw/master/tutoriaview.gif)

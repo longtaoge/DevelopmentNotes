@@ -20,3 +20,12 @@
 ### SmoothProgressBar ###
 [https://github.com/AndroidBase/SmoothProgressBar](https://github.com/AndroidBase/SmoothProgressBar)
 ![](https://github.com/AndroidBase/SmoothProgressBar/raw/master/screenshots/SPB_sample.gif)
+
+### StikkyHeader ###
+[https://github.com/carlonzo/StikkyHeader](https://github.com/carlonzo/StikkyHeader)
+
+![](https://raw.githubusercontent.com/carlonzo/StikkyHeader/develop/readme/example1.gif)![](https://raw.githubusercontent.com/carlonzo/StikkyHeader/develop/readme/example2.gif)
+
+###  socket.io-android-chat###
+[https://github.com/AndroidBase/socket.io-android-chat](https://github.com/AndroidBase/socket.io-android-chat)
+![](https://github.com/AndroidBase/socket.io-android-chat/raw/master/chat.png)
