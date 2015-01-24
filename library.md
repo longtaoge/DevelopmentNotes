@@ -97,3 +97,17 @@
 [https://github.com/AndroidBase/TutorialView](https://github.com/AndroidBase/TutorialView)
 
 ![](https://github.com/AndroidBase/TutorialView/raw/master/tutoriaview.gif)
+### ImageBlurring ###
+[https://github.com/AndroidBase/ImageBlurring](https://github.com/AndroidBase/ImageBlurring)
+![](https://github.com/AndroidBase/ImageBlurring/raw/master/images/001.jpg)
+
+
+###自定义view显示Gif图象  ###
+[https://github.com/longtaoge/GifActivity](https://github.com/longtaoge/GifActivity)
+
+![](https://github.com/longtaoge/GifActivity/raw/master/gif.gif)
+
+### IconicDroid 字体图标###
+[https://github.com/atermenji/IconicDroid](https://github.com/atermenji/IconicDroid)
+
+![](https://camo.githubusercontent.com/5d78cabc9fe501b8eaaac8e7cb49370d57e1e3ec/687474703a2f2f686162726173746f726167652e6f72672f73746f72616765322f6238662f3234332f6439362f62386632343364393661363536663362393465326565366535643336663866392e706e673f7261773d74727565)

@@ -29,3 +29,7 @@
 ###  socket.io-android-chat###
 [https://github.com/AndroidBase/socket.io-android-chat](https://github.com/AndroidBase/socket.io-android-chat)
 ![](https://github.com/AndroidBase/socket.io-android-chat/raw/master/chat.png)
+### RecyclerView-FlexibleDivider ###
+[https://github.com/AndroidBase/RecyclerView-FlexibleDivider](https://github.com/AndroidBase/RecyclerView-FlexibleDivider)
+
+![](https://github.com/AndroidBase/RecyclerView-FlexibleDivider/raw/master/sample/sample1.gif)![](https://github.com/AndroidBase/RecyclerView-FlexibleDivider/raw/master/sample/sample2.gif)
