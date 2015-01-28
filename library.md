@@ -114,3 +114,11 @@
 ### hellocharts-android ###
 [https://github.com/AndroidBase/hellocharts-android](https://github.com/AndroidBase/hellocharts-android)
 ![](https://github.com/AndroidBase/hellocharts-android/raw/master/screens/scr_dependecy_preview.gif)
+
+### LolliPin ###
+[https://github.com/AndroidBase/LolliPin](https://github.com/AndroidBase/LolliPin)
+![](https://github.com/AndroidBase/LolliPin/raw/master/app/src/main/res/raw/github_gif.gif)
+
+### CircularBarPager ###
+[https://github.com/AndroidBase/CircularBarPager](https://github.com/AndroidBase/CircularBarPager)
+![](https://github.com/AndroidBase/CircularBarPager/raw/master/app/src/main/res/raw/github_gif.gif)
