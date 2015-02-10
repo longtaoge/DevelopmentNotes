@@ -33,3 +33,21 @@
 [https://github.com/AndroidBase/RecyclerView-FlexibleDivider](https://github.com/AndroidBase/RecyclerView-FlexibleDivider)
 
 ![](https://github.com/AndroidBase/RecyclerView-FlexibleDivider/raw/master/sample/sample1.gif)![](https://github.com/AndroidBase/RecyclerView-FlexibleDivider/raw/master/sample/sample2.gif)
+
+### InboxLayout ###
+[https://github.com/AndroidBase/InboxLayout](https://github.com/AndroidBase/InboxLayout)
+
+![](https://raw.githubusercontent.com/zhaozhentao/InboxLayout/master/screenshot/pic.gif)
+### Android-MaterialPreference ###
+[https://github.com/jenzz/Android-MaterialPreference](https://github.com/jenzz/Android-MaterialPreference)
+
+![](https://camo.githubusercontent.com/e7d19d635dd16b8559b1f9c1982ca47ee55ddbe1/68747470733a2f2f7261772e6769746875622e636f6d2f6a656e7a7a2f416e64726f69642d4d6174657269616c507265666572656e63652f6d61737465722f6173736574732f53637265656e73686f74312e706e67)
+
+### freepager ###
+[https://github.com/alexzaitsev/freepager](https://github.com/alexzaitsev/freepager)
+
+![](https://github.com/alexzaitsev/freepager/raw/master/04.gif)
+
+### Material-Movies ###
+[https://github.com/saulmm/Material-Movies/tree/master/HackVG](https://github.com/saulmm/Material-Movies/tree/master/HackVG)
+![](https://camo.githubusercontent.com/a0f4c555b1dbaafb83475be4fb09fd2fe3a0e14c/687474703a2f2f616e64726f636f64652e65732f77702d636f6e74656e742f75706c6f6164732f323031352f30322f312e706e67)

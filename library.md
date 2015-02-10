@@ -117,8 +117,62 @@
 
 ### LolliPin ###
 [https://github.com/AndroidBase/LolliPin](https://github.com/AndroidBase/LolliPin)
+
 ![](https://github.com/AndroidBase/LolliPin/raw/master/app/src/main/res/raw/github_gif.gif)
 
 ### CircularBarPager ###
 [https://github.com/AndroidBase/CircularBarPager](https://github.com/AndroidBase/CircularBarPager)
+
 ![](https://github.com/AndroidBase/CircularBarPager/raw/master/app/src/main/res/raw/github_gif.gif)
+
+### Android-CircleMenu ###
+[https://github.com/AndroidBase/Android-CircleMenu](https://github.com/AndroidBase/Android-CircleMenu)
+![](https://github.com/szugyi/CircleMenu/raw/master/screenshots/shot1.png)
+### Android-CircleMenu ###
+[https://github.com/AndroidBase/Android-CircleMenu-1](https://github.com/AndroidBase/Android-CircleMenu-1)
+![](https://github.com/hongyangAndroid/CircleMenu/raw/master/sample_zhy_CircleMenu/screen_shot.gif)
+
+### wall-splash-android ###
+[https://github.com/AndroidBase/wall-splash-android](https://github.com/AndroidBase/wall-splash-android)
+
+![](https://raw.githubusercontent.com/mikepenz/unsplash-android/master/DEV/screenshots/screenshot1_small.png)![](https://raw.githubusercontent.com/mikepenz/unsplash-android/master/DEV/screenshots/screenshot1_small.png)
+
+### CircleProgress ###
+
+[https://github.com/AndroidBase/CircleProgress](https://github.com/AndroidBase/CircleProgress)
+
+![](https://raw.githubusercontent.com/lzyzsd/CircleProgress/master/demos/circle_progress.gif)
+
+### android-circleprogress ###
+[https://github.com/kratorius/android-circleprogress](https://github.com/kratorius/android-circleprogress)
+
+![](https://github.com/kratorius/android-circleprogress/raw/master/demo/images/showcase.png)
+
+### CircleProgressBar-Android ###
+
+[https://github.com/AndroidBase/CircleProgressBar-Android](https://github.com/AndroidBase/CircleProgressBar-Android)
+
+![](https://github.com/AndroidBase/CircleProgressBar-Android/blob/master/CircleProgressBar-Android.gif)
+
+### Android-Iconics ###
+
+[https://github.com/AndroidBase/Android-Iconics](https://github.com/AndroidBase/Android-Iconics)
+ 
+![](https://raw.githubusercontent.com/mikepenz/Android-Iconics/master/DEV/screenshots/screenshot_1_small.jpg)
+![](https://raw.githubusercontent.com/mikepenz/Android-Iconics/master/DEV/screenshots/screenshot_2_small.jpg)
+
+### AboutLibraries ###
+[https://github.com/mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries)
+
+![](https://raw.githubusercontent.com/mikepenz/AboutLibraries/master/DEV/screenshots/screenshot1_small.png)
+![](https://raw.githubusercontent.com/mikepenz/AboutLibraries/master/DEV/screenshots/screenshot2_small.png)
+### Carbon ###
+[https://github.com/AndroidBase/Carbon](https://github.com/AndroidBase/Carbon)
+
+![](https://github.com/AndroidBase/Carbon/raw/master/carbon.png)
+![](https://camo.githubusercontent.com/dd8b5b7cd433dcaf2c25267a42fa858ec7e8a3aa/687474703a2f2f696d672e796f75747562652e636f6d2f76692f59635451386138735470552f302e6a7067)
+### android-patternview ###
+[https://github.com/AndroidBase/android-patternview](https://github.com/AndroidBase/android-patternview)
+
+![](https://github.com/geftimov/android-patternview/raw/master/art/rsz_pattern_correct.png)
+
