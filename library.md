@@ -176,3 +176,27 @@
 
 ![](https://github.com/geftimov/android-patternview/raw/master/art/rsz_pattern_correct.png)
 
+### DrawableView ###
+[https://github.com/AndroidBase/DrawableView](https://github.com/AndroidBase/DrawableView)
+
+![](https://github.com/PaNaVTEC/DrawableView/blob/master/art/DrawableView.gif)
+
+### CoverFlow ###
+[https://github.com/AndroidBase/CoverFlow](https://github.com/AndroidBase/CoverFlow)
+![](https://github.com/AndroidBase/CoverFlow/raw/master/art/screenshot.png)
+
+### dashed-circular-progress ###
+[https://github.com/longtaoge/dashed-circular-progress](https://github.com/longtaoge/dashed-circular-progress)
+![](https://github.com/glomadrian/dashed-circular-progress/raw/master/art/sample.gif)
+### fab ###
+[https://github.com/longtaoge/fab](https://github.com/longtaoge/fab)
+![](https://github.com/shell-software/fab/raw/master/demo/button_type_default.png)
+
+### AndroidTagGroup ###
+[https://github.com/longtaoge/AndroidTagGroup](https://github.com/longtaoge/AndroidTagGroup)
+![](https://camo.githubusercontent.com/6a4ce346d402597d71f3e523c4a404311a4cd25b/68747470733a2f2f7261772e6769746875622e636f6d2f32647867756a756e2f416e64726f696454616747726f75702f6d61737465722f6173736574732f64656d6f5f73637265656e73686f742e706e67)
+
+### MaterialDrawer ###
+[https://github.com/longtaoge/MaterialDrawer](https://github.com/longtaoge/MaterialDrawer)
+
+![](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/master/DEV/screenshots/screenshot1_small.png)
