@@ -205,3 +205,34 @@
 [https://github.com/longtaoge/Android-Ultra-Photo-Selector](https://github.com/longtaoge/Android-Ultra-Photo-Selector)
 
 ![](https://github.com/AizazAZ/Android-Ultra-Photo-Selector/raw/master/media/image1.png)
+
+
+### lableView ###
+[https://github.com/longtaoge/Labelviewdemo](https://github.com/longtaoge/Labelviewdemo)
+
+![](https://github.com/longtaoge/Labelviewdemo/raw/master/img/img1.png)
+
+
+### material-painter ###
+[https://github.com/longtaoge/material-painter](https://github.com/longtaoge/material-painter)
+
+![](https://raw.githubusercontent.com/novoda/materialpainter/master/art/demo.gif)
+
+### DexMovingImageView ###
+[https://github.com/longtaoge/DexMovingImageView](https://github.com/longtaoge/DexMovingImageView)
+
+![](https://github.com/longtaoge/DexMovingImageView/raw/master/assets/images/dmiv_screenshot.gif)
+
+### HideOnScrollExample ###
+[https://github.com/longtaoge/HideOnScrollExample](https://github.com/longtaoge/HideOnScrollExample)
+![](http://mzgreen.github.io/images/1/demo_gif.gif)
+
+### BooheeScrollView ###
+[https://github.com/longtaoge/BooheeScrollView](https://github.com/longtaoge/BooheeScrollView)
+
+![](https://github.com/zhaozhentao/BooheeScrollView/raw/master/screenshot/screen.gif)
+
+### ArcAnimator ###
+[https://github.com/longtaoge/ArcAnimator](https://github.com/longtaoge/ArcAnimator)
+
+![](https://camo.githubusercontent.com/942dff1cf0e36fca72e5a6f513b0853c61dca7a9/687474703a2f2f692e696d6775722e636f6d2f445369517862672e676966)![](https://camo.githubusercontent.com/06e3d80b9d4377192f145758fb1046c366c1b3c8/687474703a2f2f692e696d6775722e636f6d2f614c634c72476b2e676966)
