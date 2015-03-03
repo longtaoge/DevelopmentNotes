@@ -236,3 +236,19 @@
 [https://github.com/longtaoge/ArcAnimator](https://github.com/longtaoge/ArcAnimator)
 
 ![](https://camo.githubusercontent.com/942dff1cf0e36fca72e5a6f513b0853c61dca7a9/687474703a2f2f692e696d6775722e636f6d2f445369517862672e676966)![](https://camo.githubusercontent.com/06e3d80b9d4377192f145758fb1046c366c1b3c8/687474703a2f2f692e696d6775722e636f6d2f614c634c72476b2e676966)
+
+### SwipeBack ###
+[https://github.com/longtaoge/SwipeBack](https://github.com/longtaoge/SwipeBack)
+
+![](https://github.com/longtaoge/SwipeBack/raw/master/Images/swipeback_demo.gif)
+
+### SearchMenuAnim ###
+[https://github.com/longtaoge/SearchMenuAnim](https://github.com/longtaoge/SearchMenuAnim)
+
+![](https://raw.githubusercontent.com/kongnanlive/SearchMenuAnim/master/search.gif)
+
+
+### FabButton ###
+[https://github.com/longtaoge/FabButton](https://github.com/longtaoge/FabButton)
+
+![](https://github.com/longtaoge/FabButton/raw/master/example.gif)![](https://github.com/longtaoge/FabButton/raw/master/365.gif)
