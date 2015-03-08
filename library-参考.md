@@ -51,3 +51,8 @@
 ### Material-Movies ###
 [https://github.com/saulmm/Material-Movies/tree/master/HackVG](https://github.com/saulmm/Material-Movies/tree/master/HackVG)
 ![](https://camo.githubusercontent.com/a0f4c555b1dbaafb83475be4fb09fd2fe3a0e14c/687474703a2f2f616e64726f636f64652e65732f77702d636f6e74656e742f75706c6f6164732f323031352f30322f312e706e67)
+
+### InboxLayout ###
+[https://github.com/longtaoge/InboxLayout](https://github.com/longtaoge/InboxLayout)
+![](https://raw.githubusercontent.com/zhaozhentao/InboxLayout/master/screenshot/pic.gif)
+
