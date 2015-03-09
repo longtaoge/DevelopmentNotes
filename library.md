@@ -252,3 +252,38 @@
 [https://github.com/longtaoge/FabButton](https://github.com/longtaoge/FabButton)
 
 ![](https://github.com/longtaoge/FabButton/raw/master/example.gif)![](https://github.com/longtaoge/FabButton/raw/master/365.gif)
+
+### ZDepthShadowLayout ###
+[https://github.com/longtaoge/ZDepthShadowLayout](https://github.com/longtaoge/ZDepthShadowLayout)
+
+![](https://github.com/ShogoMizumoto/ZDepthShadowLayout/raw/master/demo.gif)
+
+
+### dialogplus ###
+[https://github.com/longtaoge/dialogplus](https://github.com/longtaoge/dialogplus)
+
+![](https://github.com/nr4bt/dialogplus/raw/master/images/d3.png)
+
+
+### MaterialLoadingProgressBar ###
+[https://github.com/longtaoge/MaterialLoadingProgressBar](https://github.com/longtaoge/MaterialLoadingProgressBar)
+![](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)
+
+### WaveView-1 ###
+[https://github.com/longtaoge/WaveView-1](https://github.com/longtaoge/WaveView-1)
+![](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)
+
+### SmoothProgressBar ###
+[https://github.com/AndroidBase/SmoothProgressBar](https://github.com/AndroidBase/SmoothProgressBar)
+![](https://github.com/AndroidBase/SmoothProgressBar/raw/master/screenshots/SPB_sample.gif)
+
+### LDrawer ###
+[https://github.com/longtaoge/LDrawer](https://github.com/longtaoge/LDrawer)
+![](https://raw.githubusercontent.com/IkiMuhendis/LDrawer/master/images/animated.gif)
+### QuickReturn ###
+[https://github.com/longtaoge/QuickReturn](https://github.com/longtaoge/QuickReturn)
+
+![](https://camo.githubusercontent.com/e57af2de9ffcdad33ce3f93e258a9ec973545984/687474703a2f2f696d672e796f75747562652e636f6d2f76692f537863765a317149795a342f302e6a7067)
+### TextCounter ###
+[https://github.com/longtaoge/TextCounter](https://github.com/longtaoge/TextCounter)
+![](https://github.com/longtaoge/TextCounter/raw/master/img/counter.gif)
