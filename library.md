@@ -297,3 +297,7 @@
 ### SlideSwitch ###
 [https://github.com/longtaoge/SlideSwitch](https://github.com/longtaoge/SlideSwitch)
 ![](https://github.com/Leaking/SlideSwitch/raw/master/Example/TestLibs/res/drawable-hdpi/slide_a.png)
+
+
+### victor_SVG ###
+[https://github.com/longtaoge/victor](https://github.com/longtaoge/victor)
