@@ -22,6 +22,7 @@
 
 ### OCiney ###
 [https://github.com/longtaoge/OCiney](https://github.com/longtaoge/OCiney)
+
 ![](https://raw.githubusercontent.com/florent37/OCiney/master/images/00_films_small.png?raw=true)![](https://raw.githubusercontent.com/florent37/OCiney/master/images/01_film_small.png?raw=true)
 
 ### superCleanMaster 一键清理 ###
@@ -30,3 +31,9 @@
 ### XhsWelcomeAnim ###
 [https://github.com/longtaoge/XhsWelcomeAnim](https://github.com/longtaoge/XhsWelcomeAnim)
 ![](https://raw.githubusercontent.com/w446108264/XhsWelcomeAnim/master/output/show.gif)
+
+### SuesNews ###
+[https://github.com/longtaoge/SuesNews](https://github.com/longtaoge/SuesNews)
+
+![](https://github.com/longtaoge/SuesNews/raw/master/art/content.gif)![](https://github.com/longtaoge/SuesNews/raw/master/art/start.gif)
+
