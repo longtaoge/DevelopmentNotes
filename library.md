@@ -310,3 +310,7 @@
 ### android-floating-action-button ###
 [https://github.com/longtaoge/android-floating-action-button](https://github.com/longtaoge/android-floating-action-button)
 ![](https://github.com/longtaoge/android-floating-action-button/raw/master/screenshots/buttons.png)![](https://github.com/longtaoge/android-floating-action-button/raw/master/screenshots/custom.png)![](https://github.com/longtaoge/android-floating-action-button/raw/master/screenshots/menu.gif)
+
+### GlFancyCoverFlow ###
+[https://github.com/LittleLiByte/GlFancyCoverFlow](https://github.com/LittleLiByte/GlFancyCoverFlow)
+![](https://github.com/LittleLiByte/GlFancyCoverFlow/raw/master/GlFancyCoverFlow/res/raw/ScreenShots/device-2014-10-15-141029.png)
