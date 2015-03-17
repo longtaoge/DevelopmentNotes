@@ -314,3 +314,8 @@
 ### GlFancyCoverFlow ###
 [https://github.com/LittleLiByte/GlFancyCoverFlow](https://github.com/LittleLiByte/GlFancyCoverFlow)
 ![](https://github.com/LittleLiByte/GlFancyCoverFlow/raw/master/GlFancyCoverFlow/res/raw/ScreenShots/device-2014-10-15-141029.png)
+
+### Droppy ###
+[https://github.com/longtaoge/Droppy](https://github.com/longtaoge/Droppy)
+
+![](https://raw.githubusercontent.com/shehabic/Droppy/screenshots/Droppy_Screenshot.png)
