@@ -319,3 +319,9 @@
 [https://github.com/longtaoge/Droppy](https://github.com/longtaoge/Droppy)
 
 ![](https://raw.githubusercontent.com/shehabic/Droppy/screenshots/Droppy_Screenshot.png)
+
+
+### SimpleTagImageView ###
+
+![](https://github.com/longtaoge/SimpleTagImageView/raw/master/demo3.gif)
+[https://github.com/longtaoge/SimpleTagImageView](https://github.com/longtaoge/SimpleTagImageView)
