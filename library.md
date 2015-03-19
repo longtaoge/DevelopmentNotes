@@ -325,3 +325,8 @@
 
 ![](https://github.com/longtaoge/SimpleTagImageView/raw/master/demo3.gif)
 [https://github.com/longtaoge/SimpleTagImageView](https://github.com/longtaoge/SimpleTagImageView)
+
+### 500px-android-blur ###
+[https://github.com/longtaoge/500px-android-blur](https://github.com/longtaoge/500px-android-blur)
+![](https://github.com/longtaoge/500px-android-blur/raw/master/blurdemo.gif)
+
