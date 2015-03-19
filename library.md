@@ -330,3 +330,7 @@
 [https://github.com/longtaoge/500px-android-blur](https://github.com/longtaoge/500px-android-blur)
 ![](https://github.com/longtaoge/500px-android-blur/raw/master/blurdemo.gif)
 
+### GridPasswordView ###
+[https://github.com/longtaoge/GridPasswordView](https://github.com/longtaoge/GridPasswordView)
+
+![](https://camo.githubusercontent.com/2518e5bbafa0db8e9785488b80d08c7e05387a03/687474703a2f2f6a756e676572722e71696e6975646e2e636f6d2f6465766963652d323031352d30332d31342d3138333833352e676966)
