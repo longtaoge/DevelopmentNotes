@@ -54,9 +54,19 @@
 
 ### InboxLayout ###
 [https://github.com/longtaoge/InboxLayout](https://github.com/longtaoge/InboxLayout)
+
 ![](https://raw.githubusercontent.com/zhaozhentao/InboxLayout/master/screenshot/pic.gif)
 
 
-### Android Network Solution ### 
+### Android Network Solution ###
 [https://github.com/longtaoge/wasp](https://github.com/longtaoge/wasp)
 
+### Euclid ###
+[https://github.com/Yalantis/Euclid](https://github.com/Yalantis/Euclid)
+
+![](https://camo.githubusercontent.com/b01a910b14ef3573c9e75ce150ef76e155cbbe98/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313734343135372f39396d696c65732d7573657270726f66696c652d616e696d6174696f6e5f312d312d332e676966)
+
+### DesignOverlay-Android ###
+[https://github.com/longtaoge/DesignOverlay-Android](https://github.com/longtaoge/DesignOverlay-Android)
+
+![](https://github.com/longtaoge/DesignOverlay-Android/raw/master/art/app_screenshot.png)

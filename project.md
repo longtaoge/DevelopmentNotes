@@ -36,4 +36,7 @@
 [https://github.com/longtaoge/SuesNews](https://github.com/longtaoge/SuesNews)
 
 ![](https://github.com/longtaoge/SuesNews/raw/master/art/content.gif)![](https://github.com/longtaoge/SuesNews/raw/master/art/start.gif)
+### OpenImgur ###
+[https://github.com/Kennyc1012/OpenImgur](https://github.com/Kennyc1012/OpenImgur)
 
+![](https://github.com/Kennyc1012/OpenImgur/raw/master/assets/ss1.png)
