@@ -40,3 +40,6 @@
 [https://github.com/Kennyc1012/OpenImgur](https://github.com/Kennyc1012/OpenImgur)
 
 ![](https://github.com/Kennyc1012/OpenImgur/raw/master/assets/ss1.png)
+
+### 开源项目open-source-android-apps ###
+[https://github.com/longtaoge/open-source-android-apps](https://github.com/longtaoge/open-source-android-apps)
