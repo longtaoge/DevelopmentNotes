@@ -339,3 +339,13 @@
 [https://github.com/longtaoge/MaterialPowerMenu](https://github.com/longtaoge/MaterialPowerMenu)
 
 ![](https://raw.githubusercontent.com/naman14/MaterialPowerMenu/master/demo.gif)
+
+
+----------
+### shadow-layout ###
+
+[https://github.com/AndroidBase/shadow-layout](https://github.com/AndroidBase/shadow-layout)
+
+![](https://github.com/AndroidBase/shadow-layout/raw/master/screenshots/intro.png)
+
+----------

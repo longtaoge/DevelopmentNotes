@@ -70,3 +70,15 @@
 [https://github.com/longtaoge/DesignOverlay-Android](https://github.com/longtaoge/DesignOverlay-Android)
 
 ![](https://github.com/longtaoge/DesignOverlay-Android/raw/master/art/app_screenshot.png)![](https://github.com/longtaoge/DesignOverlay-Android/raw/master/art/screenshot_1.png)![](https://github.com/longtaoge/DesignOverlay-Android/raw/master/art/screenshot_2.png)
+
+### Android 设计模式分析 ###
+[https://github.com/longtaoge/android_design_patterns_analysis](https://github.com/longtaoge/android_design_patterns_analysis)
+
+----------
+
+
+#### NewFuubo ####
+[https://github.com/cxd9257/NewFuubo](https://github.com/cxd9257/NewFuubo)
+
+
+----------
