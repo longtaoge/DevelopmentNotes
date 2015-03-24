@@ -351,3 +351,6 @@
 ![](https://github.com/AndroidBase/shadow-layout/raw/master/screenshots/intro.png)
 
 ----------
+### MiClockView ###
+[https://github.com/longtaoge/MiClockView](https://github.com/longtaoge/MiClockView)
+![](https://github.com/AvatarQing/MiClockView/raw/master/art/duplication.gif)
