@@ -354,3 +354,9 @@
 ### MiClockView ###
 [https://github.com/longtaoge/MiClockView](https://github.com/longtaoge/MiClockView)
 ![](https://github.com/AvatarQing/MiClockView/raw/master/art/duplication.gif)
+
+### hellocharts-android ###
+----------
+[https://github.com/longtaoge/hellocharts-android](https://github.com/longtaoge/hellocharts-android)
+
+![](https://github.com/longtaoge/hellocharts-android/raw/master/screens/scr_dependecy_preview.gif)
