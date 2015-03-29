@@ -18,3 +18,5 @@ ormlite 示例程序
 
 3/26/2015 10:42:07 PM 
 ----------
+### gameHit ###
+[https://github.com/longtaoge/CopyofgameHit](https://github.com/longtaoge/CopyofgameHit)
