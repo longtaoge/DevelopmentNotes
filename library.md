@@ -360,3 +360,14 @@
 [https://github.com/longtaoge/hellocharts-android](https://github.com/longtaoge/hellocharts-android)
 
 ![](https://github.com/longtaoge/hellocharts-android/raw/master/screens/scr_dependecy_preview.gif)
+
+
+----------
+### SmartTabLayout ###
+[https://github.com/longtaoge/SmartTabLayout](https://github.com/longtaoge/SmartTabLayout)
+![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif)![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif)
+
+				3/31/2015 11:47:36 PM 
+----------
+
+
