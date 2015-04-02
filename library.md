@@ -371,13 +371,7 @@
 ----------
 ### AndroidSlidingUpPanel ###
 [https://github.com/longtaoge/AndroidSlidingUpPanel](https://github.com/longtaoge/AndroidSlidingUpPanel)
-![](https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67)
+![](https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67)![](https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67)![](https://camo.githubusercontent.com/834cfd81ce764457db69dc023e1bd0adf0a8d00d/68747470733a2f2f7261772e6769746875622e636f6d2f756d616e6f2f416e64726f6964536c6964696e67557050616e656c44656d6f2f6d61737465722f736c6964696e67757070616e656c2e706e67)
 
 				4/1/2015 9:17:33 PM 
-----------
-### 相册选择器wqgallery ###
-[https://github.com/longtaoge/wqgallery](https://github.com/longtaoge/wqgallery)
-![](https://github.com/wqandroid/wqgallery/raw/master/app/screenshort/Screenshot_2015-03-31-18-35-29.png)
-![](https://github.com/wqandroid/wqgallery/raw/master/app/screenshort/Screenshot_2015-03-31-18-35-34.png)
-		4/1/2015 11:07:24 PM 
 ----------
