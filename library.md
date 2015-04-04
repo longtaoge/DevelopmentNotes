@@ -388,3 +388,10 @@
 ![](https://camo.githubusercontent.com/33ebac176b5ea40f662c89a5bf965cc7da0f51e5/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d353935353065613435383261346132322e676966)
 4/3/2015 12:45:31 AM 
 ----------
+
+### hkm-progress-button ###
+
+[https://github.com/longtaoge/hkm-progress-button](https://github.com/longtaoge/hkm-progress-button)
+![](https://github.com/longtaoge/hkm-progress-button/raw/master/screenshots/sample1_small1.gif)
+			4/4/2015 1:04:28 PM 	
+----------
