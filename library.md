@@ -395,3 +395,10 @@
 ![](https://github.com/longtaoge/hkm-progress-button/raw/master/screenshots/sample1_small1.gif)
 			4/4/2015 1:04:28 PM 	
 ----------
+### richeditor-android ###
+
+[https://github.com/longtaoge/richeditor-android](https://github.com/longtaoge/richeditor-android)
+![](https://github.com/longtaoge/richeditor-android/raw/master/art/demo.gif)
+![](https://github.com/longtaoge/richeditor-android/raw/master/art/demo2.gif)
+				4/5/2015 10:16:52 PM 
+----------
