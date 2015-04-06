@@ -263,6 +263,7 @@
 [https://github.com/longtaoge/dialogplus](https://github.com/longtaoge/dialogplus)
 
 ![](https://github.com/nr4bt/dialogplus/raw/master/images/d3.png)
+![](https://github.com/nr4bt/dialogplus/raw/master/images/dialogplus.gif)
 
 
 ### MaterialLoadingProgressBar ###
