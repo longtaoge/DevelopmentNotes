@@ -402,8 +402,14 @@
 ![](https://github.com/longtaoge/richeditor-android/raw/master/art/demo2.gif)
 				4/5/2015 10:16:52 PM 
 ----------
+### LollipopContactsRecyclerViewFastScroller ###
 [https://github.com/longtaoge/LollipopContactsRecyclerViewFastScroller](https://github.com/longtaoge/LollipopContactsRecyclerViewFastScroller)
 ![](https://raw.githubusercontent.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller/master/lollipop%20contacts%20app.png)
 ![](https://raw.githubusercontent.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller/master/demo.png)
 				4/6/2015 10:03:21 PM 
+----------
+### Android-Lock9View ###
+[https://github.com/longtaoge/Android-Lock9View](https://github.com/longtaoge/Android-Lock9View)
+![](https://github.com/longtaoge/Android-Lock9View/raw/master/screenshot/screenshot.png)
+		4/6/2015 10:19:41 PM 
 ----------
