@@ -26,5 +26,11 @@ ormlite 示例程序
 
 [https://github.com/longtaoge/Dialog_Myself](https://github.com/longtaoge/Dialog_Myself)
 ![](https://github.com/longtaoge/Dialog_Myself/raw/master/dialog.gif)
+
+[https://github.com/longtaoge/MyDialog](https://github.com/longtaoge/MyDialog)
+![](https://github.com/longtaoge/MyDialog/raw/master/device-2014-10-22-230133.png)
+
+
+[https://github.com/longtaoge/AlertDialog](https://github.com/longtaoge/AlertDialog)
 ----------
 
