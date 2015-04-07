@@ -32,5 +32,9 @@ ormlite 示例程序
 
 
 [https://github.com/longtaoge/AlertDialog](https://github.com/longtaoge/AlertDialog)
+
+[https://github.com/longtaoge/DialogAnimation/tree/master](https://github.com/longtaoge/DialogAnimation/tree/master)
+
+![](https://github.com/longtaoge/DialogAnimation/raw/master/DialogAnimation.gif)
 ----------
 
