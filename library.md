@@ -414,3 +414,17 @@
 ![](https://github.com/longtaoge/Android-Lock9View/raw/master/screenshot/screenshot.png)
 		4/6/2015 10:19:41 PM 
 ----------
+
+### Sweet Alert Dialog ###
+[https://github.com/longtaoge/sweet-alert-dialog](https://github.com/longtaoge/sweet-alert-dialog)
+![](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
+				4/7/2015 8:33:29 PM 
+----------
+
+### Scrollable ###
+[https://github.com/longtaoge/Scrollable](https://github.com/longtaoge/Scrollable)
+
+![](https://raw.githubusercontent.com/noties/Scrollable/master/sample.gif)
+
+4/7/2015 8:35:36 PM 
+----------
