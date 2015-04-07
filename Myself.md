@@ -19,4 +19,12 @@ ormlite 示例程序
 3/26/2015 10:42:07 PM 
 
 ----------
+### ProgressDialog ###
+
+[https://github.com/longtaoge/ProgressDialog](https://github.com/longtaoge/ProgressDialog)
+![](https://github.com/longtaoge/ProgressDialog/raw/master/ProgressDialog.gif)
+
+[https://github.com/longtaoge/Dialog_Myself](https://github.com/longtaoge/Dialog_Myself)
+![](https://github.com/longtaoge/Dialog_Myself/raw/master/dialog.gif)
+----------
 
