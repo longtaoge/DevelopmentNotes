@@ -41,5 +41,14 @@
 
 ![](https://github.com/Kennyc1012/OpenImgur/raw/master/assets/ss1.png)
 
+----------
+
 ### 开源项目open-source-android-apps ###
 [https://github.com/longtaoge/open-source-android-apps](https://github.com/longtaoge/open-source-android-apps)
+
+
+
+----------
+### AndroidDigest ###
+[https://github.com/AndroidBase/AndroidDigest](https://github.com/AndroidBase/AndroidDigest)
+![](https://github.com/AndroidBase/AndroidDigest/raw/master/gancai.gif)
