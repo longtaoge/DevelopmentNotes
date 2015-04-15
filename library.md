@@ -460,3 +460,9 @@
 ### recyclerview-animators ###
 [https://github.com/longtaoge/recyclerview-animators](https://github.com/longtaoge/recyclerview-animators)
 ![](https://github.com/longtaoge/recyclerview-animators/raw/master/art/demo.gif)
+
+### AndroidUIView ###
+[https://github.com/longtaoge/AndroidUIView](https://github.com/longtaoge/AndroidUIView)
+
+![](https://github.com/longtaoge/AndroidUIView/raw/master/screenshots/s1.png)
+![](https://github.com/longtaoge/AndroidUIView/raw/master/screenshots/s3.png)
