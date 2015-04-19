@@ -475,3 +475,12 @@
 [https://github.com/longtaoge/android-auto-scroll-view-pager](https://github.com/longtaoge/android-auto-scroll-view-pager)
 
 ![](https://camo.githubusercontent.com/b5c5f75f9876f58b949c77c24e26e03c4a978585/687474703a2f2f6661726d332e737461746963666c69636b722e636f6d2f323834332f31323830353133323437355f653539353636346138315f6f2e676966)
+
+
+----------
+### material ###
+[https://github.com/longtaoge/material](https://github.com/longtaoge/material)
+
+![](https://github.com/longtaoge/material/blob/master/app/src/main/java/MaterialDemo.gif)
+
+----------
