@@ -484,3 +484,9 @@
 ![](https://github.com/longtaoge/material/blob/master/app/src/main/java/MaterialDemo.gif)
 
 ----------
+### WearViewStub ###
+[https://github.com/longtaoge/WearViewStub.git](https://github.com/longtaoge/WearViewStub.git)
+
+![](https://raw.githubusercontent.com/florent37/WearViewStub/master/wear/src/main/res/drawable/background_small.jpg)
+
+----------
