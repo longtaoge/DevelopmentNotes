@@ -59,3 +59,12 @@
 
 [https://github.com/longtaoge/ComicReader](https://github.com/longtaoge/ComicReader)
 ![](https://camo.githubusercontent.com/e43d83c43fdbefe9a41582cf676c6d792df09d58/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530342f31342f30393136303165626f783975747a6d39663931316d632e706e67)
+
+
+----------
+### JianDan ###
+[https://github.com/longtaoge/JianDan.git](https://github.com/longtaoge/JianDan.git)
+
+![](https://camo.githubusercontent.com/b1d1540c156419715a045ecad49ff621a3bdd994/687474703a2f2f69322e74696574756b752e636f6d2f653430653166353864333130393737632e706e67)
+
+----------
