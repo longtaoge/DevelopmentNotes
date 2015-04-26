@@ -516,5 +516,8 @@
 ![](https://github.com/chenqian2651489/PopZoomGallery/raw/master/Untitled.gif)
 
 ----------
+### loadtoast ###
 
+[https://github.com/longtaoge/loadtoast.git](https://github.com/longtaoge/loadtoast.git)
 
+----------
