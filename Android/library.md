@@ -520,4 +520,5 @@
 
 [https://github.com/longtaoge/loadtoast.git](https://github.com/longtaoge/loadtoast.git)
 
+![](https://camo.githubusercontent.com/96592555c77792a317564369f8ff53bafcba2a13/687474703a2f2f692e696d6775722e636f6d2f57776f784c4d752e676966)
 ----------
