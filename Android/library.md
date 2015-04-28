@@ -531,3 +531,10 @@
 ### android-cassowary-layout ###
 [https://github.com/longtaoge/android-cassowary-layout](https://github.com/longtaoge/android-cassowary-layout)
 ![](https://camo.githubusercontent.com/3e80b8c4eb6a67ca8ae42b79d6f3a0182083f516/687474703a2f2f73686172652e676966796f75747562652e636f6d2f76516b42364d2e676966)
+
+----------
+### SHSegmentControl ###
+[https://github.com/longtaoge/SHSegmentControl.git](https://github.com/longtaoge/SHSegmentControl.git)
+![](https://github.com/longtaoge/SHSegmentControl/raw/master/arts/arts1.gif)
+
+----------
