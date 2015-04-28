@@ -528,3 +528,6 @@
 ![](https://camo.githubusercontent.com/685069a582e1c6afee13095de6a3748564d0cc94/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f6e633671346a75626161753078356d2f53637265656e73686f745f323031352d30322d31352d32332d31362d35362e706e673f646c3d31)
 
 ----------
+### android-cassowary-layout ###
+[https://github.com/longtaoge/android-cassowary-layout](https://github.com/longtaoge/android-cassowary-layout)
+![](https://camo.githubusercontent.com/3e80b8c4eb6a67ca8ae42b79d6f3a0182083f516/687474703a2f2f73686172652e676966796f75747562652e636f6d2f76516b42364d2e676966)
