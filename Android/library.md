@@ -543,5 +543,9 @@
 [https://github.com/longtaoge/DropDownMenu.git](https://github.com/longtaoge/DropDownMenu.git)
 ![](https://github.com/JayFang1993/DropDownMenu/raw/master/screenshot.gif)
 
+----------
+### loading ###
+[https://github.com/longtaoge/Loading](https://github.com/longtaoge/Loading)
 
+![](https://github.com/longtaoge/Loading/blob/master/loding.gif)
 ----------
