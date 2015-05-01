@@ -24,3 +24,9 @@
 
 ![](https://github.com/longtaoge/ngCordovaDome/blob/master/ngcordova.gif)
 
+
+----------
+### Cordova ###
+[https://github.com/longtaoge/CordovaPluginsDome/tree/master  ](https://github.com/longtaoge/CordovaPluginsDome/tree/master  )
+
+![](https://github.com/longtaoge/CordovaPluginsDome/raw/master/www/codova_plugin.gif)
