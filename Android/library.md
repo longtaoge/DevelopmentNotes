@@ -556,3 +556,9 @@
 ![](https://camo.githubusercontent.com/cf5bfb6d896604aa9156e3e1beee89e0754de7db/68747470733a2f2f7261772e6769746875622e636f6d2f636872697362616e65732f50686f746f566965772f6d61737465722f6865616465725f677261706869632e706e67)
 
 ----------
+### MaterialViewPager ###
+[https://github.com/longtaoge/MaterialViewPager](https://github.com/longtaoge/MaterialViewPager)
+
+![](https://raw.githubusercontent.com/florent37/MaterialViewPager/master/screenshots/screenshot_2_small.png)
+
+----------
