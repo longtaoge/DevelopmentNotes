@@ -562,3 +562,9 @@
 ![](https://raw.githubusercontent.com/florent37/MaterialViewPager/master/screenshots/screenshot_2_small.png)
 
 ----------
+### Android-Material-Wizard ###
+[https://github.com/AndroidBase/Android-Material-Wizard](https://github.com/AndroidBase/Android-Material-Wizard)
+
+![](https://camo.githubusercontent.com/aae0d200dede330d0a6e947386a3ed31441a3570/687474703a2f2f692e696d6775722e636f6d2f50496d674273302e676966)
+
+----------
