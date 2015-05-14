@@ -587,3 +587,13 @@
 [https://github.com/longtaoge/Nox](https://github.com/longtaoge/Nox)
 
 ![](https://github.com/longtaoge/Nox/raw/master/art/screenshot_demo_1.gif)
+
+----------
+### Layout-to-Image ###
+[https://github.com/longtaoge/Layout-to-Image](https://github.com/longtaoge/Layout-to-Image)
+
+![](https://github.com/vipulasri/Layout-to-Image/raw/master/header.png)
+
+----------
+
+
