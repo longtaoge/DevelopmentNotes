@@ -121,3 +121,9 @@ cordova plugin add org.apache.cordova.vibration
 ### 震动 ###
 cordova plugin add https://github.com/MobileChromeApps/zip.git
 
+----------
+
+### Plugin to support background execution ###
+[https://github.com/longtaoge/cordova-plugin-background-app](https://github.com/longtaoge/cordova-plugin-background-app)
+
+----------
