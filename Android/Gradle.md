@@ -4,3 +4,9 @@
 
 ### 使用Gradle打可执行jar包 ###
 [http://leon-wood.iteye.com/blog/1835265](http://leon-wood.iteye.com/blog/1835265)
+
+
+----------
+
+### 发布aar文件到jCenter ###
+[https://github.com/danielemaddaluno/gradle-jcenter-publish#fork-destination-box](https://github.com/danielemaddaluno/gradle-jcenter-publish#fork-destination-box)
