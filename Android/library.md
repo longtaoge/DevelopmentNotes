@@ -616,3 +616,8 @@
 ![](https://raw.githubusercontent.com/afollestad/material-cab/master/art/screenshot2.png)
 
 ----------
+### StickerView ###
+[https://github.com/longtaoge/StickerView](https://github.com/longtaoge/StickerView)
+
+
+----------
