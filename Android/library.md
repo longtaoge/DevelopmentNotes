@@ -627,4 +627,8 @@
 ![](https://github.com/wnafee/vector-compat/raw/master/artwork/example_2.gif)
 
 ----------
+### PicassoPalette ###
+[https://github.com/longtaoge/PicassoPalette](https://github.com/longtaoge/PicassoPalette)
+![](https://raw.githubusercontent.com/florent37/PicassoPalette/master/screenshot/nyancat_small_2.png)
 
+----------5/20/2015 11:03:28 PM 
