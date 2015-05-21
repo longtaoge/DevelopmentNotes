@@ -664,3 +664,9 @@
 ![](https://github.com/longtaoge/Slidr/raw/master/images/slidr_gif.gif)
 
 ----------
+
+### FlippableStackView ###
+[https://github.com/longtaoge/FlippableStackView](https://github.com/longtaoge/FlippableStackView)
+![](https://github.com/longtaoge/FlippableStackView/raw/master/FlippableStackView.gif)
+
+----------
