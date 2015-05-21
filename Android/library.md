@@ -653,3 +653,8 @@
 ![](https://github.com/longtaoge/HeaderRecyclerView/raw/master/art/screenshot_demo_1.gif)
 
 ----------
+### ScoreBoard ###
+[https://github.com/longtaoge/ScoreBoard](https://github.com/longtaoge/ScoreBoard)
+![](https://github.com/longtaoge/ScoreBoard/raw/master/screenshot/inspired.gif)
+
+----------
