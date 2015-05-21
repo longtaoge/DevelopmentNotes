@@ -658,3 +658,9 @@
 ![](https://github.com/longtaoge/ScoreBoard/raw/master/screenshot/inspired.gif)
 
 ----------
+### Slidr ###
+[https://github.com/longtaoge/Slidr](https://github.com/longtaoge/Slidr)
+
+![](https://github.com/longtaoge/Slidr/raw/master/images/slidr_gif.gif)
+
+----------
