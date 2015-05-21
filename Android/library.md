@@ -640,4 +640,16 @@
 
 
 ----------
+### PolygonImageView ###
+[https://github.com/longtaoge/PolygonImageView](https://github.com/longtaoge/PolygonImageView)
 
+![](https://github.com/longtaoge/PolygonImageView/raw/master/art/screen04.png)
+
+
+----------
+
+### HeaderRecyclerView ###
+[https://github.com/longtaoge/HeaderRecyclerView\](https://github.com/longtaoge/HeaderRecyclerView\)
+![](https://github.com/longtaoge/HeaderRecyclerView/raw/master/art/screenshot_demo_1.gif)
+
+----------
