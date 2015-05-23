@@ -670,3 +670,9 @@
 ![](https://github.com/longtaoge/FlippableStackView/raw/master/FlippableStackView.gif)
 
 ----------
+### Material-Animation-Samples ###
+
+[https://github.com/longtaoge/Material-Animation-Samples](https://github.com/longtaoge/Material-Animation-Samples)
+![](https://github.com/tarek360/Material-Animation-Samples/raw/master/layout_transition.gif)
+
+----------
