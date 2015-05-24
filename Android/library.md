@@ -676,3 +676,8 @@
 ![](https://github.com/tarek360/Material-Animation-Samples/raw/master/layout_transition.gif)
 
 ----------
+### ExRecyclerView ###
+[https://github.com/longtaoge/ExRecyclerView](https://github.com/longtaoge/ExRecyclerView)
+![](https://github.com/longtaoge/ExRecyclerView/raw/master/demoPic/demo01.png)
+
+----------
