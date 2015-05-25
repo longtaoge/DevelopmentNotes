@@ -681,3 +681,9 @@
 ![](https://github.com/longtaoge/ExRecyclerView/raw/master/demoPic/demo01.png)
 
 ----------
+### MultiThreadDownloader ###
+[https://github.com/longtaoge/MultiThreadDownloader](https://github.com/longtaoge/MultiThreadDownloader)
+
+![](https://github.com/AigeStudio/MultiThreadDownloader/raw/master/preview1.gif)
+
+----------
