@@ -699,3 +699,9 @@
 ![](https://raw.githubusercontent.com/AndroidDeveloperLB/ActionBarPreferenceActivity/master/demo.gif)
 
 ----------
+### SelectorInjection ###
+[https://github.com/longtaoge/SelectorInjection](https://github.com/longtaoge/SelectorInjection)
+![](https://github.com/longtaoge/SelectorInjection/raw/master/demoPic/view.png)
+
+
+----------
