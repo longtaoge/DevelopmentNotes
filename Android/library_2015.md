@@ -10,3 +10,9 @@
 [https://github.com/longtaoge/WheelIndicatorView](https://github.com/longtaoge/WheelIndicatorView)
 
 ![](https://github.com/longtaoge/WheelIndicatorView/raw/master/art/animated_wheelview.gif?raw=true)
+
+
+### FlyRefresh ###
+[https://github.com/longtaoge/FlyRefresh](https://github.com/longtaoge/FlyRefresh)
+
+![](https://github.com/longtaoge/FlyRefresh/raw/master/images/flyrefresh.gif)
