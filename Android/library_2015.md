@@ -16,3 +16,8 @@
 [https://github.com/longtaoge/FlyRefresh](https://github.com/longtaoge/FlyRefresh)
 
 ![](https://github.com/longtaoge/FlyRefresh/raw/master/images/flyrefresh.gif)
+
+### BGARefreshLayout-Android ###
+[https://github.com/longtaoge/BGARefreshLayout-Android](https://github.com/longtaoge/BGARefreshLayout-Android)
+
+![](https://raw.githubusercontent.com/bingoogolapple/BGARefreshLayout-Android/master/screenshots/6.gif)
