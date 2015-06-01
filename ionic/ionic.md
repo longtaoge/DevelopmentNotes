@@ -30,3 +30,7 @@
 [https://github.com/longtaoge/CordovaPluginsDome/tree/master  ](https://github.com/longtaoge/CordovaPluginsDome/tree/master  )
 
 ![](https://github.com/longtaoge/CordovaPluginsDome/raw/master/www/codova_plugin.gif)
+
+### 自定义ionic模板 ###
+
+[https://github.com/longtaoge/ionic-starter-mytemplate/\](https://github.com/longtaoge/ionic-starter-mytemplate/\)
