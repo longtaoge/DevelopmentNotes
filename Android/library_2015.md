@@ -21,3 +21,8 @@
 [https://github.com/longtaoge/BGARefreshLayout-Android](https://github.com/longtaoge/BGARefreshLayout-Android)
 
 ![](https://raw.githubusercontent.com/bingoogolapple/BGARefreshLayout-Android/master/screenshots/6.gif)
+
+### AndroidFontsManager ###
+[https://github.com/longtaoge/AndroidFontsManager](https://github.com/longtaoge/)
+
+![](https://github.com/GcsSloop/AndroidFontsManager/raw/master/Pic/fontsmanagerdemo.gif)
