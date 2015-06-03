@@ -26,3 +26,9 @@
 [https://github.com/longtaoge/AndroidFontsManager](https://github.com/longtaoge/)
 
 ![](https://github.com/GcsSloop/AndroidFontsManager/raw/master/Pic/fontsmanagerdemo.gif)
+
+### SpannableTextView ###
+
+[https://github.com/longtaoge/SpannableTextView](https://github.com/longtaoge/SpannableTextView)
+
+![](https://raw.githubusercontent.com/lawloretienne/SpannableTextView/master/images/SpannableTextView_Screenshot2.png)
