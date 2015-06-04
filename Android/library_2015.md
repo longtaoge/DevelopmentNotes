@@ -32,3 +32,7 @@
 [https://github.com/longtaoge/SpannableTextView](https://github.com/longtaoge/SpannableTextView)
 
 ![](https://raw.githubusercontent.com/lawloretienne/SpannableTextView/master/images/SpannableTextView_Screenshot2.png)
+
+### MasteringAndroidDataBinding ###
+
+[https://github.com/LyndonChin/MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
