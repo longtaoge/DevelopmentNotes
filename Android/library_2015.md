@@ -50,3 +50,11 @@
 [https://github.com/longtaoge/EdittextWithTag](https://github.com/longtaoge/EdittextWithTag)
 
 ![](https://raw.githubusercontent.com/pchauhan/EdittextWithTag/master/res/drawable/edittextwithtag.png)
+
+
+### velocimeter-view ###
+[https://github.com/longtaoge/velocimeter-view](https://github.com/longtaoge/velocimeter-view)
+
+![](https://github.com/longtaoge/velocimeter-view/raw/master/art/velocimeter.png)
+
+![](https://github.com/longtaoge/velocimeter-view/raw/master/art/velocimeter.gif)
