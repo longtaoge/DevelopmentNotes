@@ -58,3 +58,8 @@
 ![](https://github.com/longtaoge/velocimeter-view/raw/master/art/velocimeter.png)
 
 ![](https://github.com/longtaoge/velocimeter-view/raw/master/art/velocimeter.gif)
+
+
+### Notes ###
+[https://github.com/longtaoge/Notes](https://github.com/longtaoge/Notes)
+![](https://github.com/longtaoge/Notes/raw/master/screenshot/S50603-103314.jpg)
