@@ -71,4 +71,8 @@
 
 ![](https://github.com/longtaoge/MaterialImageLoading)
 
+### AppIntro ###
 
+[https://github.com/longtaoge/AppIntro](https://github.com/longtaoge/AppIntro)
+
+![](https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png)
