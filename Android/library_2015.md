@@ -76,3 +76,6 @@
 [https://github.com/longtaoge/AppIntro](https://github.com/longtaoge/AppIntro)
 
 ![](https://github.com/PaoloRotolo/AppIntro/raw/master/art/intro.png)
+
+### smart-adapters ###
+[https://github.com/longtaoge/smart-adapters](https://github.com/longtaoge/smart-adapters)
