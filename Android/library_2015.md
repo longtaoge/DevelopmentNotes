@@ -79,3 +79,6 @@
 
 ### smart-adapters ###
 [https://github.com/longtaoge/smart-adapters](https://github.com/longtaoge/smart-adapters)
+
+### ASimpleCache ###
+[https://github.com/longtaoge/ASimpleCache](https://github.com/longtaoge/ASimpleCache)
