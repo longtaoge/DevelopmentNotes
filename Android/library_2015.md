@@ -87,3 +87,9 @@
 [https://github.com/longtaoge/Spanny](https://github.com/longtaoge/Spanny)
 
 ![](https://camo.githubusercontent.com/16b6d49cf7481709a8bb43803489e6f43e26c1ac/687474703a2f2f692e696d6775722e636f6d2f4e506e6c3079792e706e673f31)
+
+
+### IconColorChanger ###
+[https://github.com/longtaoge/IconColorChanger](https://github.com/longtaoge/IconColorChanger)
+
+![](https://cloud.githubusercontent.com/assets/11768239/8147576/501152aa-128f-11e5-88ba-c192db79a2b4.jpg)
