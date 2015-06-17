@@ -93,3 +93,8 @@
 [https://github.com/longtaoge/IconColorChanger](https://github.com/longtaoge/IconColorChanger)
 
 ![](https://cloud.githubusercontent.com/assets/11768239/8147576/501152aa-128f-11e5-88ba-c192db79a2b4.jpg)
+
+### android-design-support-lib-sample ###
+[https://github.com/longtaoge/android-design-support-lib-sample](https://github.com/longtaoge/android-design-support-lib-sample)
+
+![](https://cloud.githubusercontent.com/assets/1490212/8047692/d7249446-0e48-11e5-92a1-0cd1a794a99c.gif)
