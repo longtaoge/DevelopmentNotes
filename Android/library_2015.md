@@ -103,3 +103,6 @@
 [https://github.com/longtaoge/TwoPanels](https://github.com/longtaoge/TwoPanels)
 
 ![](https://github.com/longtaoge/TwoPanels/raw/master/TwoPanelsExample/image.gif)
+
+### Android Sliding Up Panel 之中文注释 ###
+[https://github.com/longtaoge/AndroidSlidingUpPanel-1](https://github.com/longtaoge/AndroidSlidingUpPanel-1)
