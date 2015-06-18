@@ -98,3 +98,7 @@
 [https://github.com/longtaoge/android-design-support-lib-sample](https://github.com/longtaoge/android-design-support-lib-sample)
 
 ![](https://cloud.githubusercontent.com/assets/1490212/8047692/d7249446-0e48-11e5-92a1-0cd1a794a99c.gif)
+
+### TwoPanels ###
+[https://github.com/longtaoge/TwoPanels](https://github.com/longtaoge/TwoPanels)
+![](https://github.com/longtaoge/TwoPanels/raw/master/TwoPanelsExample/image.gif)
