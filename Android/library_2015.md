@@ -106,3 +106,7 @@
 
 ### Android Sliding Up Panel 之中文注释 ###
 [https://github.com/longtaoge/AndroidSlidingUpPanel-1](https://github.com/longtaoge/AndroidSlidingUpPanel-1)
+
+### ExpandableSelector ###
+[https://github.com/longtaoge/ExpandableSelector](https://github.com/longtaoge/ExpandableSelector)
+![](https://github.com/longtaoge/ExpandableSelector/raw/master/art/screenshot_demo_1.gif)
