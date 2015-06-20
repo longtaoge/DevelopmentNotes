@@ -110,3 +110,8 @@
 ### ExpandableSelector ###
 [https://github.com/longtaoge/ExpandableSelector](https://github.com/longtaoge/ExpandableSelector)
 ![](https://github.com/longtaoge/ExpandableSelector/raw/master/art/screenshot_demo_1.gif)
+
+### CreditCardView ###
+[https://github.com/longtaoge/CreditCardView](https://github.com/longtaoge/CreditCardView)
+
+![](https://github.com/longtaoge/CreditCardView/raw/master/images/Feature%20Image.png)
