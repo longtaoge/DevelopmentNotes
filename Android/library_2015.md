@@ -120,3 +120,8 @@
 [https://github.com/longtaoge/SmsCodeHelper](https://github.com/longtaoge/SmsCodeHelper)
 
 ![](https://github.com/longtaoge/SmsCodeHelper)
+
+### LoyalNativeSlider ###
+[https://github.com/longtaoge/LoyalNativeSlider](https://github.com/longtaoge/LoyalNativeSlider)
+
+![](https://github.com/longtaoge/LoyalNativeSlider/raw/master/scn/device-2015-06-17-142823.png)
