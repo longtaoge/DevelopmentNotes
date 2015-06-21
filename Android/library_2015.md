@@ -125,3 +125,8 @@
 [https://github.com/longtaoge/LoyalNativeSlider](https://github.com/longtaoge/LoyalNativeSlider)
 
 ![](https://github.com/longtaoge/LoyalNativeSlider/raw/master/scn/device-2015-06-17-142823.png)
+
+### Cheerleader ###
+[https://github.com/longtaoge/Cheerleader](https://github.com/longtaoge/Cheerleader)
+
+![](https://github.com/longtaoge/Cheerleader/raw/master/static/banner.png)
