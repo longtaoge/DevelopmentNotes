@@ -132,5 +132,12 @@
 
 ![](https://github.com/longtaoge/Cheerleader/raw/master/static/banner.png)
 
-
+### BlurredGridMenu ###
 [https://github.com/longtaoge/BlurredGridMenu](https://github.com/longtaoge/BlurredGridMenu)
+
+![](https://github.com/gotokatsuya/BlurredGridMenu/raw/master/image.jpg)
+
+### android-transition ###
+[https://github.com/longtaoge/android-transition](https://github.com/longtaoge/android-transition)
+
+![](https://github.com/longtaoge/android-transition/raw/master/github/slideup_default.gif)
