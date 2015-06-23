@@ -141,3 +141,6 @@
 [https://github.com/longtaoge/android-transition](https://github.com/longtaoge/android-transition)
 
 ![](https://github.com/longtaoge/android-transition/raw/master/github/slideup_default.gif)
+
+### glide图片加载 ###
+[https://github.com/longtaoge/glide](https://github.com/longtaoge/glide)
