@@ -150,3 +150,8 @@
 [https://github.com/longtaoge/Android-StepsView](https://github.com/longtaoge/Android-StepsView)
 
 ![](https://github.com/longtaoge/Android-StepsView/raw/master/image1.png)
+
+### CloudEditText ###
+[https://github.com/longtaoge/CloudEditText](https://github.com/longtaoge/CloudEditText)
+
+![](https://github.com/g707175425/CloudEditText/raw/master/CloudEditText.gif)
