@@ -155,3 +155,8 @@
 [https://github.com/longtaoge/CloudEditText](https://github.com/longtaoge/CloudEditText)
 
 ![](https://github.com/g707175425/CloudEditText/raw/master/CloudEditText.gif)
+
+### RearrangeableLayout ###
+[https://github.com/longtaoge/RearrangeableLayout](https://github.com/longtaoge/RearrangeableLayout)
+
+![](https://github.com/longtaoge/RearrangeableLayout/raw/master/screencast.gif)
