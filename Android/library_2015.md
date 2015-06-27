@@ -160,3 +160,8 @@
 [https://github.com/longtaoge/RearrangeableLayout](https://github.com/longtaoge/RearrangeableLayout)
 
 ![](https://github.com/longtaoge/RearrangeableLayout/raw/master/screencast.gif)
+
+### Folder-ResideMenu ###
+[https://github.com/longtaoge/Folder-ResideMenu](https://github.com/longtaoge/Folder-ResideMenu)
+
+![](https://github.com/longtaoge/Folder-ResideMenu/raw/master/Folder-residemenu.gif)
