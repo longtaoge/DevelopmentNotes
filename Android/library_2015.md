@@ -165,3 +165,8 @@
 [https://github.com/longtaoge/Folder-ResideMenu](https://github.com/longtaoge/Folder-ResideMenu)
 
 ![](https://github.com/longtaoge/Folder-ResideMenu/raw/master/Folder-residemenu.gif)
+
+### MaterialDialogBottomSheet ###
+[https://github.com/TakeoffAndroid/MaterialDialogBottomSheet](https://github.com/TakeoffAndroid/MaterialDialogBottomSheet)
+
+![](https://cloud.githubusercontent.com/assets/11768239/8396480/05f0dc04-1dc5-11e5-8a9e-788b00a475b3.png)
