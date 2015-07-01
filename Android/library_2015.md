@@ -170,3 +170,8 @@
 [https://github.com/TakeoffAndroid/MaterialDialogBottomSheet](https://github.com/TakeoffAndroid/MaterialDialogBottomSheet)
 
 ![](https://cloud.githubusercontent.com/assets/11768239/8396480/05f0dc04-1dc5-11e5-8a9e-788b00a475b3.png)
+
+### GaugeView ###
+[https://github.com/longtaoge/GaugeView](https://github.com/longtaoge/GaugeView)
+
+![](https://camo.githubusercontent.com/a718f2a163b178d58249d7d62b751f5cf72a7c5d/687474703a2f2f676f6f2e676c2f4875374f75)
