@@ -175,3 +175,9 @@
 [https://github.com/longtaoge/GaugeView](https://github.com/longtaoge/GaugeView)
 
 ![](https://camo.githubusercontent.com/a718f2a163b178d58249d7d62b751f5cf72a7c5d/687474703a2f2f676f6f2e676c2f4875374f75)
+
+
+### CustomGauge ###
+[https://github.com/longtaoge/CustomGauge](https://github.com/longtaoge/CustomGauge)
+
+![](https://github.com/longtaoge/CustomGauge/raw/master/example.jpg)
