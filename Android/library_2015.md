@@ -181,3 +181,8 @@
 [https://github.com/longtaoge/CustomGauge](https://github.com/longtaoge/CustomGauge)
 
 ![](https://github.com/longtaoge/CustomGauge/raw/master/example.jpg)
+
+### AlignTextView ###
+[https://github.com/longtaoge/AlignTextView](https://github.com/longtaoge/AlignTextView)
+
+![](https://github.com/longtaoge/AlignTextView/raw/master/screenshot-small.png)
