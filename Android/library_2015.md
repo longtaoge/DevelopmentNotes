@@ -186,3 +186,8 @@
 [https://github.com/longtaoge/AlignTextView](https://github.com/longtaoge/AlignTextView)
 
 ![](https://github.com/longtaoge/AlignTextView/raw/master/screenshot-small.png)
+
+### TourGuide ###
+[https://github.com/longtaoge/TourGuide](https://github.com/longtaoge/TourGuide)
+
+![](https://raw.githubusercontent.com/worker8/all_my_media_files/25b3208/device-2015-07-01-114155.gif)
