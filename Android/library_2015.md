@@ -191,3 +191,8 @@
 [https://github.com/longtaoge/TourGuide](https://github.com/longtaoge/TourGuide)
 
 ![](https://raw.githubusercontent.com/worker8/all_my_media_files/25b3208/device-2015-07-01-114155.gif)
+
+### bubbles-for-android ###
+[https://github.com/longtaoge/bubbles-for-android](https://github.com/longtaoge/bubbles-for-android)
+
+![](https://github.com/longtaoge/bubbles-for-android/raw/master/assets/bubbles_demo.gif)
