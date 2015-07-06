@@ -196,3 +196,9 @@
 [https://github.com/longtaoge/bubbles-for-android](https://github.com/longtaoge/bubbles-for-android)
 
 ![](https://github.com/longtaoge/bubbles-for-android/raw/master/assets/bubbles_demo.gif)
+
+### RecyclerViewPager ###
+
+[https://github.com/longtaoge/RecyclerViewPager](https://github.com/longtaoge/RecyclerViewPager)
+
+![](https://github.com/lsjwzh/RecyclerViewPager/raw/master/fragment.gif)
