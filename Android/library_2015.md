@@ -202,3 +202,9 @@
 [https://github.com/longtaoge/RecyclerViewPager](https://github.com/longtaoge/RecyclerViewPager)
 
 ![](https://github.com/lsjwzh/RecyclerViewPager/raw/master/fragment.gif)
+
+
+### BitmapMerger ###
+[https://github.com/longtaoge/BitmapMerger](https://github.com/longtaoge/BitmapMerger)
+
+![](https://cloud.githubusercontent.com/assets/13122232/8438306/9f83ee9c-1f82-11e5-8734-954a13f1b2f2.gif)
