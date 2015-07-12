@@ -1,0 +1,18 @@
+		// 生成发布版APK
+
+		cordova build --release android
+		
+		
+		//生成签名 
+		
+		keytool -genkey -v -keystore xiangbalao.keystore -alias xiangbalao.org -keyalg RSA -keysize 2048 -validity 10000
+		
+		
+		//应用签名
+		
+		
+		jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore xiangbalao.keystore android-release-unsigned.apk xiangbalao.org
+		
+		//应用优化
+		
+		 zipalign -v 4 android-release-unsigned.apk   android-release.apk
