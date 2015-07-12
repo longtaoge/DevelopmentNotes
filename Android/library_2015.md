@@ -214,3 +214,8 @@
 [https://github.com/longtaoge/logger](https://github.com/longtaoge/logger)
 
 ![](https://github.com/orhanobut/logger/raw/master/images/description.png)
+
+### AnimatedCircleLoadingView ###
+[https://github.com/longtaoge/AnimatedCircleLoadingView](https://github.com/longtaoge/AnimatedCircleLoadingView)
+
+![](https://github.com/longtaoge/AnimatedCircleLoadingView/raw/master/art/indeterminate_ok.gif)
