@@ -226,3 +226,8 @@
 
 ### AndroidUtils ###
 [https://github.com/longtaoge/AndroidUtils](https://github.com/longtaoge/AndroidUtils)
+
+### android-percent-support-extend ###
+[https://github.com/longtaoge/android-percent-support-extend](https://github.com/longtaoge/android-percent-support-extend)
+
+![](https://github.com/hongyangAndroid/android-percent-support-extend/raw/master/sc_03_full.png)
