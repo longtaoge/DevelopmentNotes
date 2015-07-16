@@ -231,3 +231,8 @@
 [https://github.com/longtaoge/android-percent-support-extend](https://github.com/longtaoge/android-percent-support-extend)
 
 ![](https://github.com/hongyangAndroid/android-percent-support-extend/raw/master/sc_03_full.png)
+
+### FlexiImageView ###
+[https://github.com/longtaoge/FlexiImageView](https://github.com/longtaoge/FlexiImageView)
+
+![](https://camo.githubusercontent.com/f993003777d4783a768b7e41691776591a3193ac/687474703a2f2f7777772e7465787475616c6c792e6f72672f7465787475616c6c792f61726368697665732f323031332f30342f30392f66622d686f6d652d636861742d68656164732d3130303033323138302d6d656469756d2e6a7067)
