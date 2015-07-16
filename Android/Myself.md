@@ -36,5 +36,8 @@ ormlite 示例程序
 [https://github.com/longtaoge/DialogAnimation/tree/master](https://github.com/longtaoge/DialogAnimation/tree/master)
 
 ![](https://github.com/longtaoge/DialogAnimation/raw/master/DialogAnimation.gif)
-----------
+--------
+### 汉字转拼音 ###
+[https://github.com/longtaoge/Pinyin4jDome](https://github.com/longtaoge/Pinyin4jDome)
 
+![](https://github.com/longtaoge/Pinyin4jDome/raw/master/device-2015-07-16-001150.png)
