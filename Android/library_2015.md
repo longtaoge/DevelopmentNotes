@@ -242,3 +242,11 @@
 [https://github.com/longtaoge/Magnet](https://github.com/longtaoge/Magnet)
 
 ![](https://github.com/longtaoge/Magnet/raw/master/img/magnet.gif)
+
+### PlayN ###
+
+[https://github.com/longtaoge/playn](https://github.com/longtaoge/playn)
+
+
+### HorizontalVariableListView ###
+[https://github.com/longtaoge/HorizontalVariableListView](https://github.com/longtaoge/HorizontalVariableListView)
