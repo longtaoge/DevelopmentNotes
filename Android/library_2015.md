@@ -250,3 +250,12 @@
 
 ### HorizontalVariableListView ###
 [https://github.com/longtaoge/HorizontalVariableListView](https://github.com/longtaoge/HorizontalVariableListView)
+
+
+
+### Badges ###
+仅支持部分启动器
+
+[https://github.com/longtaoge/Badges](https://github.com/longtaoge/Badges)
+
+![](https://github.com/longtaoge/Badges/raw/master/art/example_samsung.png)
