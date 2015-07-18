@@ -41,3 +41,12 @@ ormlite 示例程序
 [https://github.com/longtaoge/Pinyin4jDome](https://github.com/longtaoge/Pinyin4jDome)
 
 ![](https://github.com/longtaoge/Pinyin4jDome/raw/master/device-2015-07-16-001150.png)
+
+### TestShortCut  launchers Badges ###
+
+
+[https://github.com/longtaoge/TestShortCut](https://github.com/longtaoge/TestShortCut)
+
+
+![](https://github.com/longtaoge/TestShortCut/raw/master/icon.gif)
+
