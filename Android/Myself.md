@@ -50,3 +50,8 @@ ormlite 示例程序
 
 ![](https://github.com/longtaoge/TestShortCut/raw/master/icon.gif)
 
+### ViewPagerGallery ###
+[https://github.com/longtaoge/ViewPagerGallery](https://github.com/longtaoge/ViewPagerGallery)
+
+
+![](https://github.com/longtaoge/ViewPagerGallery/raw/master/ViewPagerGallery4eclipse/ViewPagerGallery/ViewPagerGallery.gif)
