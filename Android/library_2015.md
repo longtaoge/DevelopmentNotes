@@ -259,3 +259,11 @@
 [https://github.com/longtaoge/Badges](https://github.com/longtaoge/Badges)
 
 ![](https://github.com/longtaoge/Badges/raw/master/art/example_samsung.png)
+
+
+### DraggedViewPager ###
+
+[https://github.com/longtaoge/DraggedViewPager](https://github.com/longtaoge/DraggedViewPager)
+
+
+![](https://github.com/yueban/DraggedViewPager/raw/master/DraggedViewPager.gif)
