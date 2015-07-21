@@ -270,3 +270,9 @@
 
 ### volley-dome ###
 [https://github.com/smanikandan14/Volley-demo](https://github.com/smanikandan14/Volley-demo)
+
+### StickerCamera ###
+
+[https://github.com/longtaoge/StickerCamera](https://github.com/longtaoge/StickerCamera)
+
+![](https://github.com/longtaoge/StickerCamera/raw/master/screenshot/Screenshot_01.gif)
