@@ -276,3 +276,8 @@
 [https://github.com/longtaoge/StickerCamera](https://github.com/longtaoge/StickerCamera)
 
 ![](https://github.com/longtaoge/StickerCamera/raw/master/screenshot/Screenshot_01.gif)
+
+### CustomActivityOnCrash ###
+[https://github.com/longtaoge/CustomActivityOnCrash](https://github.com/longtaoge/CustomActivityOnCrash)
+
+![](https://github.com/Ereza/CustomActivityOnCrash/raw/master/images/frontpage.png)![](https://github.com/Ereza/CustomActivityOnCrash/raw/master/images/frontpage.png)
