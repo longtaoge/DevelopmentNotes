@@ -55,3 +55,9 @@ ormlite 示例程序
 
 
 ![](https://github.com/longtaoge/ViewPagerGallery/raw/master/ViewPagerGallery4eclipse/ViewPagerGallery/ViewPagerGallery.gif)
+
+
+### IconTabPageIndicator ###
+[https://github.com/longtaoge/IconTabPageIndicator4eclipseDome](https://github.com/longtaoge/IconTabPageIndicator4eclipseDome)
+
+![](https://github.com/longtaoge/IconTabPageIndicator4eclipseDome/raw/master/IconTabPageIndicator.gif)

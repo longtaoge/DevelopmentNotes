@@ -280,4 +280,4 @@
 ### CustomActivityOnCrash ###
 [https://github.com/longtaoge/CustomActivityOnCrash](https://github.com/longtaoge/CustomActivityOnCrash)
 
-![](https://github.com/Ereza/CustomActivityOnCrash/raw/master/images/frontpage.png)![](https://github.com/Ereza/CustomActivityOnCrash/raw/master/images/frontpage.png)
+![](https://github.com/Ereza/CustomActivityOnCrash/raw/master/images/frontpage.png)
