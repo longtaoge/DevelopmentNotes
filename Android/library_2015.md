@@ -293,3 +293,16 @@
 [https://github.com/longtaoge/dotted-progress-bar](https://github.com/longtaoge/dotted-progress-bar)
 
 ![](https://camo.githubusercontent.com/d67a85dc8688f38162571ee24f199ddfda095acc/68747470733a2f2f7261772e6769746875622e636f6d2f69676f7274726e6369632f646f747465642d70726f67726573732d6261722f6d61737465722f70726f67726573732e676966)
+
+### Activity Split Animation ###
+[https://github.com/longtaoge/ActivitySplitAnimation](https://github.com/longtaoge/ActivitySplitAnimation)
+
+
+### supertooltips ###
+[https://github.com/longtaoge/supertooltips](https://github.com/longtaoge/supertooltips)
+
+
+### TagCloudView ###
+[https://github.com/longtaoge/TagCloudView](https://github.com/longtaoge/TagCloudView)
+
+![](https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_1.png)
