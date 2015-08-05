@@ -306,3 +306,8 @@
 [https://github.com/longtaoge/TagCloudView](https://github.com/longtaoge/TagCloudView)
 
 ![](https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_1.png)
+
+### BeerSwipeRefresh ###
+[https://github.com/longtaoge/BeerSwipeRefresh](https://github.com/longtaoge/BeerSwipeRefresh)
+
+![](https://github.com/longtaoge/BeerSwipeRefresh/raw/master/sc/animation_beer.gif)
