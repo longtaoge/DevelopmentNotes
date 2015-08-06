@@ -316,3 +316,9 @@
 [https://github.com/longtaoge/BubbleTextView](https://github.com/longtaoge/BubbleTextView)
 
 ![](https://camo.githubusercontent.com/3b8c44089da79868cb45a4da372f2eaae0f3341b/687474703a2f2f3764397069632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f627562626c65775f766965772e706e67)
+
+### AndroidScrollingImageView ###
+
+[https://github.com/longtaoge/AndroidScrollingImageView](https://github.com/longtaoge/AndroidScrollingImageView)
+
+![](https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/preview.gif)
