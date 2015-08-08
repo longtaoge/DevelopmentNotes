@@ -322,3 +322,9 @@
 [https://github.com/longtaoge/AndroidScrollingImageView](https://github.com/longtaoge/AndroidScrollingImageView)
 
 ![](https://raw.githubusercontent.com/Q42/AndroidScrollingImageView/master/preview.gif)
+
+
+### FloatingView ###
+[https://github.com/longtaoge/FloatingView](https://github.com/longtaoge/FloatingView)
+
+![](https://github.com/longtaoge/FloatingView/raw/master/screenshot/animation.gif)
