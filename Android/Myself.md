@@ -66,3 +66,9 @@ ormlite 示例程序
 [https://github.com/longtaoge/androidbase](https://github.com/longtaoge/androidbase)
 
 ![](https://github.com/longtaoge/androidbase/raw/master/app/device-2015-07-31-001127.png)
+
+### CountDowntimerDome ###
+
+[https://github.com/longtaoge/CountDowntimerDome/tree/master](https://github.com/longtaoge/CountDowntimerDome/tree/master)
+
+![](https://github.com/longtaoge/CountDowntimerDome/raw/master/app/CountDownTimerDome.gif)
