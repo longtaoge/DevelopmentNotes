@@ -72,3 +72,8 @@ ormlite 示例程序
 [https://github.com/longtaoge/CountDowntimerDome/tree/master](https://github.com/longtaoge/CountDowntimerDome/tree/master)
 
 ![](https://github.com/longtaoge/CountDowntimerDome/raw/master/app/CountDownTimerDome.gif)
+
+### 相机测试 ###
+[https://github.com/longtaoge/testCarema](https://github.com/longtaoge/testCarema)
+
+![](https://github.com/longtaoge/testCarema/blob/master/device-2015-08-13-213908.png)
