@@ -77,3 +77,6 @@ ormlite 示例程序
 [https://github.com/longtaoge/testCarema](https://github.com/longtaoge/testCarema)
 
 ![](https://github.com/longtaoge/testCarema/blob/master/device-2015-08-13-213908.png)
+
+### 自定义Viewpager ###
+[https://github.com/longtaoge/MyViewPager](https://github.com/longtaoge/MyViewPager)
