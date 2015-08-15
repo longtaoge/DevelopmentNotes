@@ -80,3 +80,7 @@ ormlite 示例程序
 
 ### 自定义Viewpager ###
 [https://github.com/longtaoge/MyViewPager](https://github.com/longtaoge/MyViewPager)
+
+### 手势密码 ###
+
+[https://github.com/longtaoge/Fund_Gesture_Lock](https://github.com/longtaoge/Fund_Gesture_Lock)
