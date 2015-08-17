@@ -348,3 +348,13 @@
 [https://github.com/longtaoge/ArrowDownloadButton](https://github.com/longtaoge/ArrowDownloadButton)
 
 ![](https://github.com/fenjuly/ArrowDownloadButton/raw/master/screenshots/arrowdownloadbutton.gif)
+
+### DownloadProgressBar ###
+[https://github.com/longtaoge/DownloadProgressBar](https://github.com/longtaoge/DownloadProgressBar)
+
+![](https://github.com/longtaoge/DownloadProgressBar/raw/master/success.gif)
+
+### BottomSheet-2 ###
+[https://github.com/longtaoge/BottomSheet-2](https://github.com/longtaoge/BottomSheet-2)
+
+![](https://github.com/Kennyc1012/BottomSheet/raw/master/art/list.png)
