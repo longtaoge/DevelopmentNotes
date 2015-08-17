@@ -358,3 +358,7 @@
 [https://github.com/longtaoge/BottomSheet-2](https://github.com/longtaoge/BottomSheet-2)
 
 ![](https://github.com/Kennyc1012/BottomSheet/raw/master/art/list.png)
+
+### SwitchButton ###
+[https://github.com/longtaoge/SwitchButton](https://github.com/longtaoge/SwitchButton)
+![](https://raw.githubusercontent.com/kyleduo/SwitchButton/master/preview/easy_to_style_128.png)
