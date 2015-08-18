@@ -110,3 +110,8 @@
 [https://github.com/longtaoge/UltimateBrowserProject](https://github.com/longtaoge/UltimateBrowserProject)
 
 ![](https://github.com/longtaoge/UltimateBrowserProject/raw/master/Artworks/UBP%20Banner.png)
+
+### SimplifyReader ###
+[https://github.com/longtaoge/SimplifyReader](https://github.com/longtaoge/SimplifyReader)
+
+![](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/all_in_one.jpg)
