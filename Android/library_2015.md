@@ -361,9 +361,15 @@
 
 ### SwitchButton ###
 [https://github.com/longtaoge/SwitchButton](https://github.com/longtaoge/SwitchButton)
+
 ![](https://raw.githubusercontent.com/kyleduo/SwitchButton/master/preview/easy_to_style_128.png)
 
 ### CircularFloatingActionMenu ###
 
 [https://github.com/longtaoge/CircularFloatingActionMenu](https://github.com/longtaoge/CircularFloatingActionMenu)
 ![](https://github.com/longtaoge/CircularFloatingActionMenu)
+
+### InteractivePlayerView ###
+[https://github.com/longtaoge/InteractivePlayerView](https://github.com/longtaoge/InteractivePlayerView)
+
+![](https://raw.githubusercontent.com/iammert/InteractivePlayerView/master/art/art.png)
