@@ -84,3 +84,10 @@ ormlite 示例程序
 ### 手势密码 ###
 
 [https://github.com/longtaoge/Fund_Gesture_Lock](https://github.com/longtaoge/Fund_Gesture_Lock)
+
+![](https://github.com/longtaoge/Fund_Gesture_Lock/raw/master/password.gif)
+
+### ViedioTest ###
+[https://github.com/longtaoge/ViedioTest](https://github.com/longtaoge/ViedioTest)
+
+![](https://github.com/longtaoge/ViedioTest/raw/master/poto.gif)
