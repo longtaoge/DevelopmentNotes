@@ -91,3 +91,8 @@ ormlite 示例程序
 [https://github.com/longtaoge/ViedioTest](https://github.com/longtaoge/ViedioTest)
 
 ![](https://github.com/longtaoge/ViedioTest/raw/master/poto.gif)
+
+### SilentCamera ###
+[https://github.com/longtaoge/SilentCamera](https://github.com/longtaoge/SilentCamera)
+
+![](https://github.com/longtaoge/SilentCamera/raw/master/came.gif)
