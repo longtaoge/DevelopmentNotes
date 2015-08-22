@@ -377,3 +377,10 @@
 ### SlidingDrawer ###
 
 [https://github.com/longtaoge/SlidingDrawer](https://github.com/longtaoge/SlidingDrawer)
+
+
+### TextJustify-Android ###
+
+[https://github.com/longtaoge/TextJustify-Android](https://github.com/longtaoge/TextJustify-Android)
+
+![](https://raw.githubusercontent.com/bluejamesbond/TextJustify-Android/master/screenshots/quoteSpan.png)
