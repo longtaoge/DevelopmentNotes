@@ -384,3 +384,8 @@
 [https://github.com/longtaoge/TextJustify-Android](https://github.com/longtaoge/TextJustify-Android)
 
 ![](https://raw.githubusercontent.com/bluejamesbond/TextJustify-Android/master/screenshots/quoteSpan.png)
+
+### Android-Switch-Demo ###
+[https://github.com/longtaoge/Android-Switch-Demo-pre-4.0](https://github.com/longtaoge/Android-Switch-Demo-pre-4.0)
+
+![](https://camo.githubusercontent.com/04bf6527407857199d0aee09596e782cfa0e0dd9/68747470733a2f2f7261772e6769746875622e636f6d2f70656c6c75636964652f416e64726f69642d5377697463682d44656d6f2d7072652d342e302f6d61737465722f616e64726f69642d7377697463682d64656d6f2f53637265656e73686f742e706e67)
