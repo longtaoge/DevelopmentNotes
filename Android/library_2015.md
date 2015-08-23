@@ -389,3 +389,13 @@
 [https://github.com/longtaoge/Android-Switch-Demo-pre-4.0](https://github.com/longtaoge/Android-Switch-Demo-pre-4.0)
 
 ![](https://camo.githubusercontent.com/04bf6527407857199d0aee09596e782cfa0e0dd9/68747470733a2f2f7261772e6769746875622e636f6d2f70656c6c75636964652f416e64726f69642d5377697463682d44656d6f2d7072652d342e302f6d61737465722f616e64726f69642d7377697463682d64656d6f2f53637265656e73686f742e706e67)
+
+### MultipleImagePick ###
+[https://github.com/longtaoge/MultipleImagePick](https://github.com/longtaoge/MultipleImagePick)
+
+![](https://camo.githubusercontent.com/15a011670fcad6a71ba50beb728430a55f3b70ef/68747470733a2f2f7261772e6769746875622e636f6d2f6c756d696e6f75736d616e2f4d756c7469706c65496d6167655069636b2f6d61737465722f322e706e67)
+
+### SplitImageView ###
+[https://github.com/longtaoge/SplitImageView](https://github.com/longtaoge/SplitImageView)
+
+![](https://raw.githubusercontent.com/aliHafizji/SplitImageView/master/split_image_view.gif)
