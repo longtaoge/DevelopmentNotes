@@ -421,3 +421,8 @@
 [https://github.com/longtaoge/carbonite](https://github.com/longtaoge/carbonite)
 
 ![](https://github.com/longtaoge/carbonite/raw/develop/extra/logo/carbonite-android.png?raw=true)
+
+### android-crop ###
+[https://github.com/longtaoge/android-crop](https://github.com/longtaoge/android-crop)
+
+![](https://github.com/longtaoge/android-crop/raw/master/screenshot.png)
