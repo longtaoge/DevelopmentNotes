@@ -404,3 +404,9 @@
 [https://github.com/longtaoge/Reflective-Drawable-Loader---Android](https://github.com/longtaoge/Reflective-Drawable-Loader---Android)
 
 ![](https://github.com/alt236/Reflective-Drawable-Loader---Android/raw/master/screenshots/screenshot_2.png)
+
+### ParallaxPager  ###
+
+[https://github.com/longtaoge/ParallaxPager](https://github.com/longtaoge/ParallaxPager)
+
+![](https://camo.githubusercontent.com/7b638f5e31b5cc79a7c06cbe12e2708514069f88/687474703a2f2f70726f6c69666963696e7465726163746976652e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031342f30342f706172616c6c61785f706c616e65745f64656d6f2e676966)
