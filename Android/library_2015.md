@@ -410,3 +410,8 @@
 [https://github.com/longtaoge/ParallaxPager](https://github.com/longtaoge/ParallaxPager)
 
 ![](https://camo.githubusercontent.com/7b638f5e31b5cc79a7c06cbe12e2708514069f88/687474703a2f2f70726f6c69666963696e7465726163746976652e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031342f30342f706172616c6c61785f706c616e65745f64656d6f2e676966)
+
+### CircleLayout ###
+[https://github.com/longtaoge/CircleLayout](https://github.com/longtaoge/CircleLayout)
+
+![](https://camo.githubusercontent.com/bccd4dd16bf57c453f56869afd0d1f61bfd6fd03/68747470733a2f2f7261772e6769746875622e636f6d2f646d697472792d7a6169747365762f436972636c654c61796f75742f6d61737465722f7069652e6a7067)
