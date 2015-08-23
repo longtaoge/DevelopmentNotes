@@ -438,3 +438,9 @@
 ### 跑马灯 ###
 
 [https://github.com/longtaoge/Android-MarqueeView](https://github.com/longtaoge/Android-MarqueeView)
+
+### Media Chooser ###
+
+[https://github.com/longtaoge/MediaChooser](https://github.com/longtaoge/MediaChooser)
+
+![](https://camo.githubusercontent.com/88e1a9a6c92ce789674fc3ac9db6f86d85ae9e87/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f36313931393233322f6c6561726e4e636f64652f4d6564696143686f6f7365722f66696c65566965772e706e67)
