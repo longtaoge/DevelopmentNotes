@@ -449,3 +449,9 @@
 [https://github.com/longtaoge/SimpleCropView](https://github.com/longtaoge/SimpleCropView)
 
 ![](https://camo.githubusercontent.com/0fac57089ad8b8240c87132a75472d95aa9d3249/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f4973736569416f6b692f53696d706c6543726f70566965772f696d616765732f6465766963652d6172742f636f7665722d6172742e706e67)
+
+### TransitionPlayer ###
+[https://github.com/longtaoge/TransitionPlayer](https://github.com/longtaoge/TransitionPlayer)
+
+![](https://github.com/longtaoge/TransitionPlayer/raw/master/demo/demo_xiaoma_intro.gif)
+
