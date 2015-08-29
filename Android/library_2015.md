@@ -465,3 +465,8 @@
 [https://github.com/longtaoge/AndroidFillableLoaders](https://github.com/longtaoge/AndroidFillableLoaders)
 
 ![](https://github.com/longtaoge/AndroidFillableLoaders/raw/master/art/demoWaves.gif)
+
+### MaterialTextField ###
+[https://github.com/florent37/MaterialTextField](https://github.com/florent37/MaterialTextField)
+
+![](https://camo.githubusercontent.com/d5eb5d6991d4bde93d8ac0e0c958e3ce66c75082/687474703a2f2f692e67697068792e636f6d2f6c34316c566b4130596b615a574e5430492e676966)
