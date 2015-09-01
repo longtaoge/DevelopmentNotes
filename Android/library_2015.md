@@ -483,3 +483,7 @@
 
 ![](https://raw.githubusercontent.com/Sloy/CollapsingAvatarToolbar/master/art/collapsingavatar.gif)
 
+### HollyViewPager ###
+[https://github.com/longtaoge/HollyViewPager](https://github.com/longtaoge/HollyViewPager)
+
+![](https://camo.githubusercontent.com/42b77379300d39233842379c64a8d3bd6f432e38/687474703a2f2f6a2e676966732e636f6d2f765a344439472e676966)
