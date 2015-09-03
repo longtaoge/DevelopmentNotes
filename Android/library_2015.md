@@ -499,3 +499,8 @@
 
 ![](https://github.com/H07000223/FlycoDialog_Master/raw/master/preview_FlycoDialog.gif)
 
+### FAB-Loading ###
+[https://github.com/longtaoge/FAB-Loading](https://github.com/longtaoge/FAB-Loading)
+
+![](https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/marvel_loader.gif)
+
