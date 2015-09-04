@@ -96,3 +96,9 @@ ormlite 示例程序
 [https://github.com/longtaoge/SilentCamera](https://github.com/longtaoge/SilentCamera)
 
 ![](https://github.com/longtaoge/SilentCamera/raw/master/came.gif)
+
+
+### VideoRecord 自定义录像机  ###
+[https://github.com/longtaoge/VideoRecord](https://github.com/longtaoge/VideoRecord)
+
+![](https://github.com/longtaoge/VideoRecord/raw/master/vediorecord.gif)
