@@ -13,3 +13,9 @@
 ----------
 ### java 工具类 ###
 [https://github.com/longtaoge/utils](https://github.com/longtaoge/utils)
+
+
+### android 逆向工程工具集 ###
+
+[https://github.com/longtaoge/droidReverse](https://github.com/longtaoge/droidReverse)
+
