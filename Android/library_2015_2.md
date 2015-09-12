@@ -40,3 +40,7 @@
 
 ![](https://raw.githubusercontent.com/felipecsl/GifImageView/master/demo.gif)
 
+### subsampling-scale-image-view   加载超大图片 ###
+[https://github.com/longtaoge/subsampling-scale-image-view](https://github.com/longtaoge/subsampling-scale-image-view)
+
+![](https://github.com/longtaoge/subsampling-scale-image-view/raw/master/lp.gif)
