@@ -33,3 +33,10 @@
 [https://github.com/longtaoge/HelloTransactionAnimations](https://github.com/longtaoge/HelloTransactionAnimations)
 
 ![](https://github.com/longtaoge/HelloTransactionAnimations/raw/master/fragmen.gif)
+
+### GifImageView ###
+
+[https://github.com/longtaoge/GifImageView](https://github.com/longtaoge/GifImageView)
+
+![](https://raw.githubusercontent.com/felipecsl/GifImageView/master/demo.gif)
+
