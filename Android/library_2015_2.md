@@ -44,3 +44,14 @@
 [https://github.com/longtaoge/subsampling-scale-image-view](https://github.com/longtaoge/subsampling-scale-image-view)
 
 ![](https://github.com/longtaoge/subsampling-scale-image-view/raw/master/lp.gif)
+
+
+### Android-ScalableVideoView ###
+[https://github.com/longtaoge/Android-ScalableVideoView](https://github.com/longtaoge/Android-ScalableVideoView)
+
+![](https://github.com/longtaoge/Android-ScalableVideoView/raw/master/sample/sample.gif)
+
+
+### CacheUtilsLibrary 缓存 ###
+[https://github.com/westlinkin/CacheUtilsLibrary](https://github.com/westlinkin/CacheUtilsLibrary)
+
