@@ -102,3 +102,9 @@ ormlite 示例程序
 [https://github.com/longtaoge/VideoRecord](https://github.com/longtaoge/VideoRecord)
 
 ![](https://github.com/longtaoge/VideoRecord/raw/master/vediorecord.gif)
+
+
+### Android 观察者示例 ###
+[https://github.com/longtaoge/ObserverDome](https://github.com/longtaoge/ObserverDome)
+
+![](https://github.com/longtaoge/ObserverDome/raw/master/ObserverDome.gif)
