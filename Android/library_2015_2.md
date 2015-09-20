@@ -72,3 +72,7 @@
 
 ![](https://github.com/traex/RippleEffect/raw/master/demo.gif)
 
+### ProgressLayout ###
+[https://github.com/iammert/ProgressLayout](https://github.com/iammert/ProgressLayout)
+
+![](https://raw.githubusercontent.com/iammert/ProgressLayout/master/art/progress_layout_art.png)
