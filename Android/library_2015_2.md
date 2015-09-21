@@ -76,3 +76,17 @@
 [https://github.com/iammert/ProgressLayout](https://github.com/iammert/ProgressLayout)
 
 ![](https://raw.githubusercontent.com/iammert/ProgressLayout/master/art/progress_layout_art.png)
+
+### SnailBar 蜗牛进度条 ###
+
+[https://github.com/longtaoge/SnailBar](https://github.com/longtaoge/SnailBar)
+
+![](https://camo.githubusercontent.com/898918cea97a610539213a27e49fe9d8b0cd8e4a/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530392f31342f31353133333971756e76753636753272756b6e72366e2e676966)
+
+
+### ParticleLayout ###
+
+[https://github.com/longtaoge/ParticleLayout](https://github.com/longtaoge/ParticleLayout)
+
+![](https://camo.githubusercontent.com/092e00676b8f15550ea758aa2b03f974832e5834/687474703a2f2f69332e74696574756b752e636f6d2f613231363366393065623934663831642e676966)
+
