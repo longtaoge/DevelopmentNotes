@@ -133,3 +133,7 @@
 
 ![](https://github.com/longtaoge/PinterestView/raw/master/mine1.gif)
 
+### XhsParallaxWelcome 视差动画 ###
+[https://github.com/longtaoge/XhsParallaxWelcome](https://github.com/longtaoge/XhsParallaxWelcome)
+
+![](https://raw.githubusercontent.com/w446108264/XhsParallaxWelcome/master/output/show.gif)
