@@ -137,3 +137,11 @@
 [https://github.com/longtaoge/XhsParallaxWelcome](https://github.com/longtaoge/XhsParallaxWelcome)
 
 ![](https://raw.githubusercontent.com/w446108264/XhsParallaxWelcome/master/output/show.gif)
+
+
+### 资源混淆工具 ###
+
+
+[https://github.com/longtaoge/AndResGuard](https://github.com/longtaoge/AndResGuard)
+
+![](https://camo.githubusercontent.com/bc16ab79e7e3a6a18ed24701233f35044a1dd237/687474703a2f2f692e696d6775722e636f6d2f554474784b714f2e706e67)
