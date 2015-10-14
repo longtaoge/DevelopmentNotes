@@ -108,3 +108,8 @@ ormlite 示例程序
 [https://github.com/longtaoge/ObserverDome](https://github.com/longtaoge/ObserverDome)
 
 ![](https://github.com/longtaoge/ObserverDome/raw/master/ObserverDome.gif)
+
+### 相机测试 ###
+[https://github.com/longtaoge/TestCame](https://github.com/longtaoge/TestCame)
+
+![](https://github.com/longtaoge/TestCame/raw/master/device-2015-10-14-003359.png)
