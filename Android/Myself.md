@@ -113,3 +113,9 @@ ormlite 示例程序
 [https://github.com/longtaoge/TestCame](https://github.com/longtaoge/TestCame)
 
 ![](https://github.com/longtaoge/TestCame/raw/master/device-2015-10-14-003359.png)
+
+### ActivitySafeFloat 防Activity劫持，防二次打包 ###
+
+[https://github.com/longtaoge/ActivitySafeFloat](https://github.com/longtaoge/ActivitySafeFloat)
+
+![](https://github.com/longtaoge/ActivitySafeFloat/raw/master/684E.tmp.png)
