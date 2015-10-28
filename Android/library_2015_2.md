@@ -179,3 +179,5 @@
 
 ![](https://github.com/81813780/AVLoadingIndicatorView/raw/master/Demo2.gif)
 
+
+
