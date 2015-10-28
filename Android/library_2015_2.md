@@ -173,3 +173,9 @@
 ![](https://raw.githubusercontent.com/lisawray/fontbinding/master/screenshot_land.png)
 
 
+### AVLoadingIndicatorView ###
+
+[https://github.com/longtaoge/AVLoadingIndicatorView](https://github.com/longtaoge/AVLoadingIndicatorView)
+
+![](https://github.com/81813780/AVLoadingIndicatorView/raw/master/Demo2.gif)
+
