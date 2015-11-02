@@ -14,3 +14,10 @@
 
 ![](https://github.com/alexvasilkov/GestureViews/raw/master/sample/art/demo.gif)
 
+### NetGuard  中止网络 ###
+
+[https://github.com/longtaoge/NetGuard](https://github.com/longtaoge/NetGuard)
+
+
+![](https://github.com/longtaoge/NetGuard/raw/master/screenshot.png)
+
