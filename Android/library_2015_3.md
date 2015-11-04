@@ -21,3 +21,8 @@
 
 ![](https://github.com/longtaoge/NetGuard/raw/master/screenshot.png)
 
+
+
+### 动态加载APK ###
+[https://github.com/longtaoge/DynamicAPK](https://github.com/longtaoge/DynamicAPK)
+
