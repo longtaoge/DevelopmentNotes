@@ -26,3 +26,8 @@
 ### 动态加载APK ###
 [https://github.com/longtaoge/DynamicAPK](https://github.com/longtaoge/DynamicAPK)
 
+
+##  从相册或相机取图 EasyImage ##
+
+[https://github.com/longtaoge/EasyImage](https://github.com/longtaoge/EasyImage)
+
