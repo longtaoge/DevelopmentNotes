@@ -127,3 +127,10 @@ ormlite 示例程序
 
 
 ![](https://github.com/longtaoge/getPhoneMes/raw/master/GetPhoneMessage/%E6%95%88%E6%9E%9C%E5%9B%BE.gif)
+
+### APK加壳 ###
+
+[https://github.com/longtaoge/AndroidShell](https://github.com/longtaoge/AndroidShell)
+
+
+![](https://github.com/longtaoge/AndroidShell/raw/master/apk.gif)![](https://github.com/longtaoge/AndroidShell/raw/master/unshell.gif)
