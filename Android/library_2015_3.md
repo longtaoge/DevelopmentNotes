@@ -35,3 +35,10 @@
 
 [https://github.com/longtaoge/okhttp-utils](https://github.com/longtaoge/okhttp-utils)
 
+
+### Highlight 高亮View ###
+
+[https://github.com/longtaoge/Highlight](https://github.com/longtaoge/Highlight)
+
+![](https://github.com/longtaoge/Highlight/raw/master/highlight2.gif)
+
