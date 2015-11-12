@@ -42,3 +42,9 @@
 
 ![](https://github.com/longtaoge/Highlight/raw/master/highlight2.gif)
 
+
+
+### RedEnvelopeAssistant 红包助手 ###
+
+[https://github.com/waylife/RedEnvelopeAssistant](https://github.com/waylife/RedEnvelopeAssistant)
+
