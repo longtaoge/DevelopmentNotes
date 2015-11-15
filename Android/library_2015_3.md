@@ -55,3 +55,9 @@
 
 ![](https://github.com/longtaoge/LoganSquare/raw/master/docs/benchmarks.jpg)
 
+### KLog ###
+
+[https://github.com/longtaoge/KLog](https://github.com/longtaoge/KLog)
+
+![](https://github.com/ZhaoKaiQiang/KLog/raw/master/image/demo.gif)
+
