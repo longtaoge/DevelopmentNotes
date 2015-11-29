@@ -76,3 +76,8 @@
 
 ![](https://github.com/longtaoge/TabbedCoordinatorLayout)
 
+### Material Camera ###
+[https://github.com/afollestad/material-camera](https://github.com/afollestad/material-camera)
+
+![](https://raw.githubusercontent.com/afollestad/material-camera/master/art/deviceart.png)
+
