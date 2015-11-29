@@ -81,3 +81,9 @@
 
 ![](https://raw.githubusercontent.com/afollestad/material-camera/master/art/deviceart.png)
 
+
+### Paper ###
+
+[https://github.com/pilgr/Paper](https://github.com/pilgr/Paper)
+
+![](https://github.com/longtaoge/Paper/raw/master/paper_icon.png)
