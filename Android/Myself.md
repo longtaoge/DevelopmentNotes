@@ -157,3 +157,12 @@ ormlite 示例程序
 [https://github.com/longtaoge/BaiduTest.git](https://github.com/longtaoge/BaiduTest.git)
 
 ![](https://camo.githubusercontent.com/86e45587dcae388ef1467ee61105095079258404/687474703a2f2f692e696d6775722e636f6d2f5849766a5065792e706e67)
+
+
+### OrmliteDome ###
+
+
+[https://github.com/longtaoge/OrmliteDome](https://github.com/longtaoge/OrmliteDome)
+
+![](https://github.com/longtaoge/OrmliteDome/blob/master/res/drawable/ormlitedome.png)
+
