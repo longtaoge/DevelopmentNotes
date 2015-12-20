@@ -164,5 +164,11 @@ ormlite 示例程序
 
 [https://github.com/longtaoge/OrmliteDome](https://github.com/longtaoge/OrmliteDome)
 
+### OrmliteSQLCipher 加密 ###
+
+[https://github.com/longtaoge/OrmliteSQLCipher](https://github.com/longtaoge/OrmliteSQLCipher)
+
+
 ![](https://github.com/longtaoge/OrmliteDome/blob/master/res/drawable/ormlitedome.png)
+
 
