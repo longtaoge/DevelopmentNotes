@@ -8,3 +8,9 @@
 ### Genymotion ###
 
 Genymotion 插件
+
+
+### Android studio导入eclipse项目且不改变目录结构  ###
+
+[http://blog.csdn.net/royyeah/article/details/43266603](http://blog.csdn.net/royyeah/article/details/43266603)
+
