@@ -171,4 +171,7 @@ ormlite 示例程序
 
 ![](https://github.com/longtaoge/OrmliteDome/blob/master/res/drawable/ormlitedome.png)
 
+### AndroidJsCallCamera ###
+
+[https://github.com/longtaoge/AndroidJsCallCamera](https://github.com/longtaoge/AndroidJsCallCamera)
 
