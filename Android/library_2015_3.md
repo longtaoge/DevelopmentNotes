@@ -87,3 +87,7 @@
 [https://github.com/pilgr/Paper](https://github.com/pilgr/Paper)
 
 ![](https://github.com/longtaoge/Paper/raw/master/paper_icon.png)
+
+### HTextView ###
+
+[https://github.com/hanks-zyh/HTextView](https://github.com/hanks-zyh/HTextView)

@@ -175,3 +175,5 @@ ormlite 示例程序
 
 [https://github.com/longtaoge/AndroidJsCallCamera](https://github.com/longtaoge/AndroidJsCallCamera)
 
+![](https://github.com/longtaoge/AndroidJsCallCamera/blob/master/res/drawable/callcamera.png)
+
