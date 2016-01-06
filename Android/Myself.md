@@ -183,6 +183,12 @@ ormlite 示例程序
 
 ![](https://github.com/longtaoge/GrennDAODome/blob/master/image/grenndao13.png)
 
+### GreenDao-SQLCipher 加密 ###
+
+[https://github.com/longtaoge/GreenDaoDome-SQLCipher](https://github.com/longtaoge/GreenDaoDome-SQLCipher)
+
+![](https://github.com/longtaoge/GrennDAODome/blob/master/image/grenndao13.png)
+
 
 ### NotifyCenter ###
 
