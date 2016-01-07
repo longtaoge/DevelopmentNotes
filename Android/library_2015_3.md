@@ -121,3 +121,16 @@
 
 ![](https://raw.githubusercontent.com/dongjunkun/DropDownMenu/master/art/simple.gif)
 
+### KProgressHUD ###
+
+[https://github.com/longtaoge/KProgressHUD](https://github.com/longtaoge/KProgressHUD)
+
+![](https://raw.githubusercontent.com/Kaopiz/KProgressHUD/master/demo/screenshots/screencast.gif)
+
+### GalleryFinal ###
+
+[https://github.com/longtaoge/GalleryFinal](https://github.com/longtaoge/GalleryFinal)
+
+![](https://github.com/longtaoge/GalleryFinal/raw/master/images/gallery_final_effect.png)
+
+
