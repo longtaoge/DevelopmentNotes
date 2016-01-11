@@ -47,3 +47,8 @@
 
 
 ![](https://github.com/vikramkakkar/SublimePicker/raw/master/img/date_picker.png?raw=true)
+
+### GestureImageView ###
+
+[https://github.com/longtaoge/gesture-imageview](https://github.com/longtaoge/gesture-imageview)
+
