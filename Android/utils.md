@@ -21,3 +21,13 @@
 
 ### 选择器生成器插件 SelectorChapek for Android ###
 [https://github.com/inmite/android-selector-chapek](https://github.com/inmite/android-selector-chapek)
+
+
+### android-classyshark 逆向工具 ###
+
+
+[https://github.com/google/android-classyshark](https://github.com/google/android-classyshark)
+
+
+![](https://github.com/google/android-classyshark/raw/master/Resources/ClassySharkAnimated.gif)
+
