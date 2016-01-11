@@ -21,3 +21,11 @@
 
 [https://github.com/MrEngineer13/SnackBar](https://github.com/MrEngineer13/SnackBar)
 
+
+
+### Android-ItemTouchHelper-Demo ###
+
+[https://github.com/longtaoge/Android-ItemTouchHelper-Demo](https://github.com/longtaoge/Android-ItemTouchHelper-Demo)
+
+![](https://github.com/longtaoge/Android-ItemTouchHelper-Demo/blob/master/itemTouchHelper.gif)
+
