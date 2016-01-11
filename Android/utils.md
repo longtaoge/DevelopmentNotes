@@ -19,3 +19,5 @@
 
 [https://github.com/longtaoge/droidReverse](https://github.com/longtaoge/droidReverse)
 
+### 选择器生成器插件 SelectorChapek for Android ###
+[https://github.com/inmite/android-selector-chapek](https://github.com/inmite/android-selector-chapek)
