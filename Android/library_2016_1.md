@@ -58,3 +58,7 @@
 
 ![](https://camo.githubusercontent.com/d67228f029a7bb7e547a1e071316ffc061d335d3/68747470733a2f2f79616c616e7469732e636f6d2f6d656469612f636f6e74656e742f636b656469746f722f323031352f31302f32302f737461725f776172732d73686f742e676966)
 
+### SlidingLayer ###
+
+[https://github.com/longtaoge/android-sliding-layer-lib](https://github.com/longtaoge/android-sliding-layer-lib)
+
