@@ -97,3 +97,9 @@
 
 ![](https://raw.githubusercontent.com/hoang8f/android-segmented-control/master/screenshot/screenshot3.png)
 
+
+### ColorArt ###
+
+[https://github.com/longtaoge/ColorArt](https://github.com/longtaoge/ColorArt)
+
+![](https://github.com/MichaelEvans/ColorArt/raw/master/img/hotel_shampoo.png)
