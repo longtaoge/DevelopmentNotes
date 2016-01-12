@@ -62,3 +62,10 @@
 
 [https://github.com/longtaoge/android-sliding-layer-lib](https://github.com/longtaoge/android-sliding-layer-lib)
 
+
+### android-ripple-background ###
+
+[https://github.com/longtaoge/android-ripple-background](https://github.com/longtaoge/android-ripple-background)
+
+![](https://github.com/longtaoge/android-ripple-background/raw/master/previews/rippleFoundDevice.gif)
+
