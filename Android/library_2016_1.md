@@ -69,3 +69,9 @@
 
 ![](https://github.com/longtaoge/android-ripple-background/raw/master/previews/rippleFoundDevice.gif)
 
+### glide-transformations ###
+
+[https://github.com/wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations)
+
+![](https://github.com/longtaoge/glide-transformations/raw/master/art/demo.gif)
+
