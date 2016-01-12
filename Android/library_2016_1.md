@@ -103,3 +103,10 @@
 [https://github.com/longtaoge/ColorArt](https://github.com/longtaoge/ColorArt)
 
 ![](https://github.com/MichaelEvans/ColorArt/raw/master/img/hotel_shampoo.png)
+
+
+### android-card-slide-panel ###
+
+[https://github.com/xmuSistone/android-card-slide-panel](https://github.com/xmuSistone/android-card-slide-panel)
+
+![](https://github.com/xmuSistone/android-card-slide-panel/raw/master/capture01.gif)
