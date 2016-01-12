@@ -90,3 +90,10 @@
 
 [https://github.com/longtaoge/android-pluginmgr](https://github.com/longtaoge/android-pluginmgr)
 
+
+### android-segmented-control ###
+
+[https://github.com/longtaoge/android-segmented-control](https://github.com/longtaoge/android-segmented-control)
+
+![](https://raw.githubusercontent.com/hoang8f/android-segmented-control/master/screenshot/screenshot3.png)
+
