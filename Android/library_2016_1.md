@@ -75,3 +75,9 @@
 
 ![](https://github.com/longtaoge/glide-transformations/raw/master/art/demo.gif)
 
+### android-flat-button ###
+
+[https://github.com/longtaoge/android-flat-button](https://github.com/longtaoge/android-flat-button)
+
+![](https://raw.githubusercontent.com/hoang8f/android-flat-button/master/screenshot/screenshot.gif)
+
