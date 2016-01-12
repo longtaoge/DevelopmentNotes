@@ -110,3 +110,11 @@
 [https://github.com/xmuSistone/android-card-slide-panel](https://github.com/xmuSistone/android-card-slide-panel)
 
 ![](https://github.com/xmuSistone/android-card-slide-panel/raw/master/capture01.gif)
+
+
+### BrokenView ###
+
+[https://github.com/zhanyongsheng/BrokenView](https://github.com/zhanyongsheng/BrokenView)
+
+![](https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif)
+
