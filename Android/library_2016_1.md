@@ -81,3 +81,12 @@
 
 ![](https://raw.githubusercontent.com/hoang8f/android-flat-button/master/screenshot/screenshot.gif)
 
+### Paper ###
+[https://github.com/pilgr/Paper](https://github.com/pilgr/Paper)
+
+![](https://github.com/pilgr/Paper/raw/master/paper_icon.png)
+
+### android-pluginmgr ###
+
+[https://github.com/longtaoge/android-pluginmgr](https://github.com/longtaoge/android-pluginmgr)
+
