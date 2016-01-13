@@ -118,3 +118,14 @@
 
 ![](https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif)
 
+### AndroidMosaicLayout ###
+
+[https://github.com/longtaoge/AndroidMosaicLayout](https://github.com/longtaoge/AndroidMosaicLayout)
+
+![](https://cloud.githubusercontent.com/assets/1500868/11513643/fb4e754e-987c-11e5-8f18-025d934c69b4.png)
+
+### FloatingGroupExpandableListView ###
+
+[https://github.com/longtaoge/FloatingGroupExpandableListView](https://github.com/longtaoge/FloatingGroupExpandableListView)
+
+![](https://github.com/diegocarloslima/FloatingGroupExpandableListView/raw/master/sample.png)
