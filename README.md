@@ -1,6 +1,11 @@
 # Android开发笔记DevelopmentNotes
 #### 记录常见的好的示例和想法 ####
 
+![][license_2_svg]
+[license_2_svg]: https://img.shields.io/hexpm/l/plug.svg
+
+
+
 
 
 
@@ -117,3 +122,23 @@
 # 验证码 #
 ### 登录验证码 ###
 [https://github.com/AndroidBase/yanzhengma_demo](https://github.com/AndroidBase/yanzhengma_demo "验证码")
+
+
+
+
+
+----------
+
+
+
+Copyright 2015 longtaoge
+
+Licensed under the Apache License, Version 2.0 (the "License");
+
+you may not use this file except in compliance with the License.
+
+You may obtain a copy of the License at
+
+[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
