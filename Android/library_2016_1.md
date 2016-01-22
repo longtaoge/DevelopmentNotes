@@ -130,3 +130,9 @@
 [https://github.com/longtaoge/FloatingGroupExpandableListView](https://github.com/longtaoge/FloatingGroupExpandableListView)
 
 ![](https://github.com/diegocarloslima/FloatingGroupExpandableListView/raw/master/sample.png)
+
+### Material-Animations ###
+[https://github.com/longtaoge/Material-Animations](https://github.com/longtaoge/Material-Animations)
+
+![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)
+
