@@ -62,6 +62,7 @@
 
 [https://github.com/longtaoge/android-sliding-layer-lib](https://github.com/longtaoge/android-sliding-layer-lib)
 
+![](https://github.com/longtaoge/android-sliding-layer-lib/blob/master/SlidingLayerSample/src/main/res/drawable/ic_launcher-web.png)
 
 ### android-ripple-background ###
 
