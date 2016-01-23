@@ -209,3 +209,11 @@ ormlite 示例程序
 
 ![](https://github.com/longtaoge/Android_Search/raw/master/Untitled.gif)
 
+
+### zxingDemo ###
+
+[https://github.com/longtaoge/ZxingExamples/](https://github.com/longtaoge/ZxingExamples/)
+
+[https://github.com/longtaoge/zxingDemo/](https://github.com/longtaoge/zxingDemo/)
+
+![](https://github.com/longtaoge/ZxingExamples/blob/master/image.png)
