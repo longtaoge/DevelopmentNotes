@@ -140,3 +140,10 @@
 [https://github.com/AurelienRibon/sliding-layout](https://github.com/AurelienRibon/sliding-layout)
 
 ![](https://camo.githubusercontent.com/ece31112f750ac2735600ab0f383d3566384d739/687474703a2f2f7777772e617572656c69656e7269626f6e2e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031322f30392f736c6964696e672d6c61796f75742d64656d6f2e676966)
+
+### sliding-deck ###
+
+[https://github.com/longtaoge/sliding-deck](https://github.com/longtaoge/sliding-deck)
+
+![](https://github.com/txusballesteros/sliding-deck/raw/master/assets/demo.gif)
+
