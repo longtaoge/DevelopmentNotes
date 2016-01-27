@@ -147,3 +147,8 @@
 
 ![](https://github.com/txusballesteros/sliding-deck/raw/master/assets/demo.gif)
 
+### TimeSinceTextView ###
+[https://github.com/longtaoge/TimeSinceTextView](https://github.com/longtaoge/TimeSinceTextView)
+
+
+![](https://github.com/longtaoge/TimeSinceTextView/raw/master/screenshots/1453502946.png)
