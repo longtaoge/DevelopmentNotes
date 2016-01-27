@@ -139,7 +139,7 @@ ormlite 示例程序
 ### ScrollView  嵌套GridView和 ListView  ###
 [https://github.com/longtaoge/ScrollViewGridViewListViewDome.git](https://github.com/longtaoge/ScrollViewGridViewListViewDome.git)
 
-### 自定义随面键盘 RandomCustomkeyboard ###
+### 自定义随机键盘 RandomCustomkeyboard ###
 
 [https://github.com/longtaoge/RandomCustomkeyboard](https://github.com/longtaoge/RandomCustomkeyboard)
 
