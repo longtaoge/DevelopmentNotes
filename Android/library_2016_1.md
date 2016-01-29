@@ -152,3 +152,10 @@
 
 
 ![](https://github.com/longtaoge/TimeSinceTextView/raw/master/screenshots/1453502946.png)
+
+### SwipeStack ###
+
+[https://github.com/longtaoge/SwipeStack](https://github.com/longtaoge/SwipeStack)
+
+![](https://raw.githubusercontent.com/flschweiger/SwipeStack/master/art/demo.gif)
+
