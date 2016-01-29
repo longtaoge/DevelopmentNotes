@@ -159,3 +159,10 @@
 
 ![](https://raw.githubusercontent.com/flschweiger/SwipeStack/master/art/demo.gif)
 
+
+### Freezer ###
+
+[https://github.com/florent37/Freezer](https://github.com/florent37/Freezer)
+
+![](https://raw.githubusercontent.com/florent37/Freezer/master/freezer-logo.png)
+
