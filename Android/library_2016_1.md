@@ -180,3 +180,9 @@
 
 
 ![](https://github.com/longtaoge/EasyDialog/raw/master/demo.gif)
+
+### Toro  ###
+
+[https://github.com/eneim/Toro](https://github.com/eneim/Toro)
+
+![](https://github.com/eneim/Toro/raw/master/art/sample_1.gif)
