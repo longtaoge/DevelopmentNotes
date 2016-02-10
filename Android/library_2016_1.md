@@ -236,3 +236,8 @@
 [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
 
 ![](https://camo.githubusercontent.com/061a4a460340c26422b2a2f43d7fe39e73246297/687474703a2f2f692e696d6775722e636f6d2f6b3662415764302e6a7067)
+
+### android-beacon-library ###
+
+[https://github.com/AltBeacon/android-beacon-library](https://github.com/AltBeacon/android-beacon-library)
+
