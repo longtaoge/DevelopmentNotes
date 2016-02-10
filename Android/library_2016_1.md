@@ -196,3 +196,11 @@
 [https://github.com/hitherejoe/animate](https://github.com/hitherejoe/animate)
 
 ![](https://github.com/hitherejoe/animate/raw/master/images/slide_window_transition.gif)
+
+### Scissors ###
+
+![](https://github.com/lyft/scissors/raw/master/art/demo.gif)
+
+
+[https://github.com/lyft/scissors](https://github.com/lyft/scissors)
+
