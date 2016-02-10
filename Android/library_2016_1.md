@@ -191,3 +191,8 @@
 
 [https://github.com/romainguy/ViewServer](https://github.com/romainguy/ViewServer)
 
+### Animate ###
+
+[https://github.com/hitherejoe/animate](https://github.com/hitherejoe/animate)
+
+![](https://github.com/hitherejoe/animate/raw/master/images/slide_window_transition.gif)
