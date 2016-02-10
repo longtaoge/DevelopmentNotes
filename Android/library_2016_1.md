@@ -212,3 +212,10 @@
 
 ![](https://github.com/Karumi/Dexter/raw/master/art/sample.gif)
 
+### aFileChooser - Android File Chooser ###
+
+[https://github.com/iPaulPro/aFileChooser](https://github.com/iPaulPro/aFileChooser)
+
+![](https://camo.githubusercontent.com/d27d547844071e4ad56e85f87cf28588f032d2c2/68747470733a2f2f7261772e6769746875622e636f6d2f695061756c50726f2f6146696c6543686f6f7365722f6d61737465722f73637265656e73686f742d322e706e67)
+
+
