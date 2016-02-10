@@ -16,3 +16,8 @@
 [https://github.com/pilgr/Paper](https://github.com/pilgr/Paper)
 
 ![](https://github.com/pilgr/Paper/raw/master/paper_icon.png)
+
+### tray ###
+
+[https://github.com/grandcentrix/tray](https://github.com/grandcentrix/tray)
+
