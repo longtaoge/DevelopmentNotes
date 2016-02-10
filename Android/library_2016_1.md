@@ -231,3 +231,8 @@
 
 ![](https://camo.githubusercontent.com/3bdeff65ce500ddb2dd3c12d55cbdb140f405799/68747470733a2f2f646c2e64726f70626f782e636f6d2f752f33303336372f686f737465642f5374616e644f75742e706e67)
 
+### TextJustify-Android ###
+
+[https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
+
+![](https://camo.githubusercontent.com/061a4a460340c26422b2a2f43d7fe39e73246297/687474703a2f2f692e696d6775722e636f6d2f6b3662415764302e6a7067)
