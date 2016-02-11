@@ -277,3 +277,13 @@
 
 ![](https://github.com/AChep/AcDisplay/raw/master/screenshots/screenshot1.png)
 
+### ArcLayout ###
+[https://github.com/ogaclejapan/ArcLayout](https://github.com/ogaclejapan/ArcLayout)
+
+![](https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif)
+
+### FilterMenu ###
+[https://github.com/linroid/FilterMenu](https://github.com/linroid/FilterMenu)
+
+![](https://github.com/linroid/FilterMenu/raw/master/screenshots/device-2015-03-12-215100.png)
+
