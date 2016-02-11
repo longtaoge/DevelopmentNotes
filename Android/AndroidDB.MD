@@ -31,3 +31,11 @@
 
 [https://github.com/sqlcipher/android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher)
 
+
+### couchbase-lite-android ###
+
+
+[https://github.com/couchbase/couchbase-lite-android](https://github.com/couchbase/couchbase-lite-android)
+
+![](https://camo.githubusercontent.com/c1aa705fde3eb12245c06730d850c23e5a84ad8d/687474703a2f2f746c657964656e2d6d6973632e73332e616d617a6f6e6177732e636f6d2f636f756368626173652d6c6974652f636f756368626173652d6c6974652d6172636869746563747572652e706e67)
+
