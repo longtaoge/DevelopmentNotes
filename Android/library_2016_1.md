@@ -241,3 +241,7 @@
 
 [https://github.com/AltBeacon/android-beacon-library](https://github.com/AltBeacon/android-beacon-library)
 
+
+### ParallaxScroll ###
+
+[https://github.com/nirhart/ParallaxScroll](https://github.com/nirhart/ParallaxScroll)
