@@ -264,3 +264,9 @@
 
 ![](https://github.com/bboyfeiyu/Colorful/raw/master/images/colorful.gif)
 
+### FabricView  ###
+
+[https://github.com/antwankakki/FabricView](https://github.com/antwankakki/FabricView)
+
+![](https://camo.githubusercontent.com/1c8d0d5f194f993d806460ea9e092780b6230d78/687474703a2f2f692e696d6775722e636f6d2f396e4d453959742e676966)
+
