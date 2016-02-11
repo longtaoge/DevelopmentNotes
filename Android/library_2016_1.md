@@ -245,3 +245,8 @@
 ### ParallaxScroll ###
 
 [https://github.com/nirhart/ParallaxScroll](https://github.com/nirhart/ParallaxScroll)
+
+### easypermissions ###
+
+[https://github.com/googlesamples/easypermissions](https://github.com/googlesamples/easypermissions)
+
