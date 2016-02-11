@@ -293,3 +293,9 @@
 
 ![](https://raw.githubusercontent.com/JorgeCastilloPrz/PagedHeadListView/master/app/src/main/res/raw/preview2.gif)
 
+### Android-BluetoothSPPLibrary ###
+
+[https://github.com/akexorcist/Android-BluetoothSPPLibrary](https://github.com/akexorcist/Android-BluetoothSPPLibrary)
+
+![](https://raw.githubusercontent.com/akexorcist/Android-BluetoothSPPLibrary/master/image/Connection.png)
+
