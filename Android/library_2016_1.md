@@ -41,6 +41,11 @@
 
 ![](https://github.com/nvanbenschoten/motion/raw/master/motionImage.png)
 
+### MovingImageView ###
+
+[https://github.com/AlbertGrobas/MovingImageView](https://github.com/AlbertGrobas/MovingImageView)
+
+![](https://github.com/AlbertGrobas/MovingImageView/raw/master/art/sample02.gif)
 
 
 
