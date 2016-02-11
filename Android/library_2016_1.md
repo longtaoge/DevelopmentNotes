@@ -250,3 +250,8 @@
 
 [https://github.com/googlesamples/easypermissions](https://github.com/googlesamples/easypermissions)
 
+### Colorful 动态换肤开源库 ###
+[https://github.com/bboyfeiyu/Colorful](https://github.com/bboyfeiyu/Colorful)
+
+![](https://github.com/bboyfeiyu/Colorful/raw/master/images/colorful.gif)
+
