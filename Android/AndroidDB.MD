@@ -26,3 +26,8 @@
 
 [https://github.com/j256/ormlite-android](https://github.com/j256/ormlite-android)
 
+### android-database-sqlcipher ###
+
+
+[https://github.com/sqlcipher/android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher)
+
