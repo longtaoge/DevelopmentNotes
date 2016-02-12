@@ -354,4 +354,6 @@
 
 ![](https://github.com/DanielMartinus/Pixelate/raw/master/images/pixelate_illustration.png)
 
+### AndroidFaceCropper  人脸采集 ###
+[https://github.com/lafosca/AndroidFaceCropper](https://github.com/lafosca/AndroidFaceCropper)
 
