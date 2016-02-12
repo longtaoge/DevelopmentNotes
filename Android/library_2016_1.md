@@ -316,3 +316,9 @@
 
 ![](https://raw.githubusercontent.com/akexorcist/Android-BluetoothSPPLibrary/master/image/Connection.png)
 
+
+### Expandable Layout ###
+
+[https://github.com/AAkira/ExpandableLayout](https://github.com/AAkira/ExpandableLayout)
+
+![](https://github.com/AAkira/ExpandableLayout/raw/master/art/ExampleRecyclerview_v1.1.gif)
