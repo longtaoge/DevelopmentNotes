@@ -336,4 +336,9 @@
 
 ![](https://github.com/Kennyc1012/MultiStateView/raw/master/art/loading.png)
 
+### Masaccio ###
+
+[https://github.com/Subito-it/Masaccio](https://github.com/Subito-it/Masaccio)
+
+![](https://github.com/Subito-it/Masaccio/raw/master/masaccio_demo.gif)
 
