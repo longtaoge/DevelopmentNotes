@@ -304,6 +304,13 @@
 
 ![](https://github.com/linroid/FilterMenu/raw/master/screenshots/device-2015-03-12-215100.png)
 
+### WheelView ###
+
+[https://github.com/LukeDeighton/WheelView](https://github.com/LukeDeighton/WheelView)
+
+![](https://github.com/LukeDeighton/WheelView/raw/master/Graphics/center_wheel.gif)
+
+
 ### PagedHeadListView ###
 
 [https://github.com/JorgeCastilloPrz/PagedHeadListView](https://github.com/JorgeCastilloPrz/PagedHeadListView)
