@@ -349,3 +349,9 @@
 
 ![](https://github.com/tajchert/Nammu/raw/master/image/screenshot.png)
 
+### Pixelate ###
+[https://github.com/DanielMartinus/Pixelate](https://github.com/DanielMartinus/Pixelate)
+
+![](https://github.com/DanielMartinus/Pixelate/raw/master/images/pixelate_illustration.png)
+
+
