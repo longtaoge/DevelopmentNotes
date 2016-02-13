@@ -363,3 +363,11 @@
 
 ![](https://camo.githubusercontent.com/feb2eea06ec28c35e9e3c04b32eb21b81732dc81/68747470733a2f2f7261772e6769746875622e636f6d2f496e514261726e612f5461626c65466978486561646572732f6d61737465722f7765622f73637265656e312e706e67)
 
+
+### QRCodeReaderView ###
+
+
+[https://github.com/dlazaro66/QRCodeReaderView](https://github.com/dlazaro66/QRCodeReaderView)
+
+![](https://github.com/dlazaro66/QRCodeReaderView/raw/master/readme_images/app_example.png?raw=true)
+
