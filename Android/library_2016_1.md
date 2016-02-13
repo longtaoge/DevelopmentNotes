@@ -388,3 +388,8 @@
 ### NanoTasks ###
 
 [https://github.com/fabiendevos/nanotasks](https://github.com/fabiendevos/nanotasks)
+
+
+
+[https://github.com/moxie0/AndroidPinning](https://github.com/moxie0/AndroidPinning)
+
