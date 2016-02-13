@@ -371,3 +371,9 @@
 
 ![](https://github.com/dlazaro66/QRCodeReaderView/raw/master/readme_images/app_example.png?raw=true)
 
+### AndroidMosaicLayout ###
+
+
+[https://github.com/adhamenaya/AndroidMosaicLayout](https://github.com/adhamenaya/AndroidMosaicLayout)
+
+![](https://cloud.githubusercontent.com/assets/1500868/11513643/fb4e754e-987c-11e5-8f18-025d934c69b4.png)
