@@ -400,9 +400,24 @@
 
 ![](https://camo.githubusercontent.com/f1eeb76a7b38b194060d6a3a4f55419ed3a146b4/68747470733a2f2f7261772e6769746875622e636f6d2f6d6564796f2f64796e616d6963626f782f6d61737465722f73637265656e73686f74732f64656d6f5f676d61696c5f6e6f5f6d657373616765732e706e67)
 
+### AndroidProgressLayout ###
+
+[https://github.com/antonkrasov/AndroidProgressLayout](https://github.com/antonkrasov/AndroidProgressLayout)
+
+![](https://camo.githubusercontent.com/5c8a3c49fd8587276ac9a06fd6af95edf75c9e17/68747470733a2f2f7261772e6769746875622e636f6d2f616e746f6e6b7261736f762f416e64726f696450726f67726573734c61796f75742f6d61737465722f6172742f64656d6f2e676966)
+
+
+
 ### BetterSpinner ###
 
 [https://github.com/Lesilva/BetterSpinner](https://github.com/Lesilva/BetterSpinner)
 
 ![](https://github.com/Lesilva/BetterSpinner/raw/master/screenshot/screenshot.gif)
+
+### JustifiedTextView ###
+
+
+[https://github.com/ufo22940268/android-justifiedtextview](https://github.com/ufo22940268/android-justifiedtextview)
+
+![](https://github.com/ufo22940268/android-justifiedtextview/raw/master/en.png)
 
