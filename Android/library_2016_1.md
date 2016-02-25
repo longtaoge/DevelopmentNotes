@@ -421,3 +421,9 @@
 
 ![](https://github.com/ufo22940268/android-justifiedtextview/raw/master/en.png)
 
+### SwipeCardView ###
+
+[https://github.com/xiepeijie/SwipeCardView](https://github.com/xiepeijie/SwipeCardView)
+
+![](https://github.com/xiepeijie/SwipeCardView/raw/master/ezgif.com-1.gif)
+
