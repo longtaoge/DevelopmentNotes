@@ -227,3 +227,5 @@ ormlite 示例程序
 ### CityListSelector ###
 
 [https://github.com/longtaoge/CityListSelector](https://github.com/longtaoge/CityListSelector)
+
+![](https://github.com/longtaoge/CityListSelector/blob/master/app/src/main/res/drawable/device-2016-03-14-185322.png)
