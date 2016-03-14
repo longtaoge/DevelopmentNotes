@@ -217,3 +217,9 @@ ormlite 示例程序
 [https://github.com/longtaoge/zxingDemo/](https://github.com/longtaoge/zxingDemo/)
 
 ![](https://github.com/longtaoge/ZxingExamples/blob/master/image.png)
+
+
+### Swipeitem ### 
+[https://github.com/longtaoge/Swipeitem](https://github.com/longtaoge/Swipeitem)
+
+![](https://github.com/longtaoge/Swipeitem/raw/master/app/src/main/res/drawable/device-2016-03-14-183551.png)
