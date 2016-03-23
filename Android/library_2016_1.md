@@ -438,3 +438,10 @@
 [https://github.com/glomadrian/RoadRunner](https://github.com/glomadrian/RoadRunner)
 
 ![](https://github.com/glomadrian/RoadRunner/raw/master/art/cityshort.gif)
+
+### BottomBar ###
+
+[https://github.com/roughike/BottomBar](https://github.com/roughike/BottomBar)
+
+![](https://raw.githubusercontent.com/roughike/BottomBar/master/demo2-badge.gif)
+
