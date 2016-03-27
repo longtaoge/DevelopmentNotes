@@ -445,3 +445,10 @@
 
 ![](https://raw.githubusercontent.com/roughike/BottomBar/master/demo2-badge.gif)
 
+
+### MultilineMarquee ###
+
+![](https://github.com/recruit-mtl/MultilineMarquee/raw/master/scroll_sample_anim.gif)
+
+[https://github.com/recruit-mtl/MultilineMarquee](https://github.com/recruit-mtl/MultilineMarquee)
+
