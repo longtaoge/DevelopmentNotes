@@ -452,3 +452,11 @@
 
 [https://github.com/recruit-mtl/MultilineMarquee](https://github.com/recruit-mtl/MultilineMarquee)
 
+
+### LandscapeVideoCamera ###
+
+[https://github.com/JeroenMols/LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
+
+![](https://raw.githubusercontent.com/JeroenMols/LandscapeVideoCamera/master/screenshots/preview.gif)
+
+
