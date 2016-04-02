@@ -466,4 +466,10 @@
 ![](https://github.com/UFreedom/FloatingText/raw/master/demo.gif)
 
 
+### TriangleLabelView ###
+
+
+[https://github.com/shts/TriangleLabelView](https://github.com/shts/TriangleLabelView)
+
+![](https://github.com/shts/TriangleLabelView/raw/master/img/capture.png)
 
