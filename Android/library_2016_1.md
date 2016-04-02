@@ -459,4 +459,11 @@
 
 ![](https://raw.githubusercontent.com/JeroenMols/LandscapeVideoCamera/master/screenshots/preview.gif)
 
+### FloatingText ###
+
+[https://github.com/UFreedom/FloatingText.git](https://github.com/UFreedom/FloatingText.git)
+
+![](https://github.com/UFreedom/FloatingText/raw/master/demo.gif)
+
+
 
