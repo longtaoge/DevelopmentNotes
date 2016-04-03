@@ -492,3 +492,9 @@
 
 ![](https://github.com/MasonLiuChn/MultipleTextView/raw/master/app/doc/1.png)
 
+### ACProgressLite ###
+
+[https://github.com/Cloudist/ACProgressLite](https://github.com/Cloudist/ACProgressLite)
+
+![](https://raw.githubusercontent.com/Cloudist/ACProgressLite/master/intros/screenshot_1.png)
+
