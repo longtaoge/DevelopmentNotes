@@ -473,3 +473,15 @@
 
 ![](https://github.com/shts/TriangleLabelView/raw/master/img/capture.png)
 
+
+### FAImageView ###
+
+[https://github.com/skyfe79/FAImageView](https://github.com/skyfe79/FAImageView)
+
+![](https://github.com/skyfe79/FAImageView/raw/master/FAImageView.gif)
+
+### AndroidSpinKit ###
+[https://github.com/ybq/Android-SpinKit](https://github.com/ybq/Android-SpinKit)
+
+![](https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif)
+
