@@ -498,3 +498,8 @@
 
 ![](https://raw.githubusercontent.com/Cloudist/ACProgressLite/master/intros/screenshot_1.png)
 
+### BoilingLoadingView ###
+
+[https://github.com/Yellow5A5/BoilingLoadingView](https://github.com/Yellow5A5/BoilingLoadingView)
+![](https://github.com/Yellow5A5/BoilingLoadingView/raw/master/Demo1.gif)
+
