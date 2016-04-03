@@ -503,3 +503,9 @@
 [https://github.com/Yellow5A5/BoilingLoadingView](https://github.com/Yellow5A5/BoilingLoadingView)
 ![](https://github.com/Yellow5A5/BoilingLoadingView/raw/master/Demo1.gif)
 
+### KProgressHUD ###
+
+[https://github.com/liangchengcheng/android-loading-dialog](https://github.com/liangchengcheng/android-loading-dialog)
+
+![](https://raw.githubusercontent.com/Kaopiz/KProgressHUD/master/demo/screenshots/screencast.gif)
+
