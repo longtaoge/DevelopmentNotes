@@ -485,3 +485,10 @@
 
 ![](https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif)
 
+
+### MultipleTextView ###
+
+[https://github.com/MasonLiuChn/MultipleTextView](https://github.com/MasonLiuChn/MultipleTextView)
+
+![](https://github.com/MasonLiuChn/MultipleTextView/raw/master/app/doc/1.png)
+
