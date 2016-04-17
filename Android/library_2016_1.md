@@ -545,3 +545,8 @@
 
 ![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleLoadingDrawable_Commit2.gif?width=300)
 
+### LoopRotarySwitch ###
+
+[https://github.com/dalong982242260/LoopRotarySwitch](https://github.com/dalong982242260/LoopRotarySwitch)
+
+![](https://github.com/dalong982242260/LoopRotarySwitch/raw/master/img/dalong.gif)
