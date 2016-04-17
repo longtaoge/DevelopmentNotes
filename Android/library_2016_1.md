@@ -539,3 +539,9 @@
 
 ![](https://camo.githubusercontent.com/45884a4adb99009c95670e0dd12e40e40918c92d/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f37656630316663616777316632677a797a64703576673230616e303568676e672e676966)
 
+### LoadingDrawable ###
+
+[https://github.com/dinuscxj/LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)
+
+![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleLoadingDrawable_Commit2.gif?width=300)
+
