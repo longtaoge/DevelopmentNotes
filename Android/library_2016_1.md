@@ -550,3 +550,10 @@
 [https://github.com/dalong982242260/LoopRotarySwitch](https://github.com/dalong982242260/LoopRotarySwitch)
 
 ![](https://github.com/dalong982242260/LoopRotarySwitch/raw/master/img/dalong.gif)
+
+### ReadMoreTextView ###
+[https://github.com/borjabravo10/ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView)
+
+
+![](https://github.com/borjabravo10/ReadMoreTextView/raw/master/screenshots/collapsed.png)
+
