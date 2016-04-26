@@ -557,3 +557,7 @@
 
 ![](https://github.com/borjabravo10/ReadMoreTextView/raw/master/screenshots/collapsed.png)
 
+### StickyHeaderListView ###
+[https://github.com/sfsheng0322/StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView)
+
+![](https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader.gif)
