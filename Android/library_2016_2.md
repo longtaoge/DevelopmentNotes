@@ -13,6 +13,11 @@
 
 ![](https://github.com/rubensousa/FloatingToolbar/raw/master/screenshots/demo.gif)
 
+### FragmentAnimations ###
+
+[https://github.com/kakajika/FragmentAnimations](https://github.com/kakajika/FragmentAnimations)
+
+![](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/move.gif)
 
 
 
