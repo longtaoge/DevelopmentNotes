@@ -239,3 +239,9 @@ ormlite 示例程序
 
 ![](https://github.com/longtaoge/mutiLineEditText/raw/master/app/src/main/res/drawable/device-2016-04-03-160615.png)
 
+### AndResGuard-Demo ###
+
+[https://github.com/longtaoge/AndResGuard-Demo](https://github.com/longtaoge/AndResGuard-Demo)
+
+![](https://camo.githubusercontent.com/cfc697391e871690e0092c3a0c24421a6355e021/687474703a2f2f692e696d6775722e636f6d2f7a4c7777546e6a2e6a7067)
+
