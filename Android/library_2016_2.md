@@ -40,3 +40,8 @@
 
 ![](https://github.com/Nightonke/GithubWidget/raw/master/Pic/style_3.png?raw=true)
 
+### Evil Hide ###
+
+[https://github.com/blackbbc/Evil-Hide](https://github.com/blackbbc/Evil-Hide)
+
+![](https://github.com/blackbbc/Evil-Hide/raw/master/demo.gif)
