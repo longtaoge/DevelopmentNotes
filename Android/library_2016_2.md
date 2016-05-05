@@ -26,3 +26,17 @@
 
 ![](https://raw.githubusercontent.com/wiki/kakajika/SwipeAwayDialog/images/octocats.gif)
 
+
+### MaryPopup ###
+
+[https://github.com/Meetic/MaryPopup](https://github.com/Meetic/MaryPopup)
+
+![](https://github.com/Meetic/MaryPopup/raw/master/media/center.gif)
+
+### GithubWidget ###
+
+
+[https://github.com/Nightonke/GithubWidget](https://github.com/Nightonke/GithubWidget)
+
+![](https://github.com/Nightonke/GithubWidget/raw/master/Pic/style_3.png?raw=true)
+
