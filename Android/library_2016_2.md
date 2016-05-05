@@ -45,3 +45,11 @@
 [https://github.com/blackbbc/Evil-Hide](https://github.com/blackbbc/Evil-Hide)
 
 ![](https://github.com/blackbbc/Evil-Hide/raw/master/demo.gif)
+
+### Shuffle ###
+
+[https://github.com/Meetic/Shuffle](https://github.com/Meetic/Shuffle)
+
+![](https://github.com/Meetic/Shuffle/raw/master/media/inline.gif)
+
+
