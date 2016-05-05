@@ -20,4 +20,9 @@
 ![](https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/move.gif)
 
 
+### SwipeAwayDialog ###
+
+[https://github.com/kakajika/SwipeAwayDialog](https://github.com/kakajika/SwipeAwayDialog)
+
+![](https://raw.githubusercontent.com/wiki/kakajika/SwipeAwayDialog/images/octocats.gif)
 
