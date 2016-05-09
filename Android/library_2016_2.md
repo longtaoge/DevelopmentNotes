@@ -67,3 +67,7 @@
 
 ![](https://raw.githubusercontent.com/jayrambhia/Tooltip/master/art/demo.gif)
 
+
+### easydeviceinfo ###
+
+[https://github.com/nisrulz/easydeviceinfo](https://github.com/nisrulz/easydeviceinfo)
