@@ -71,3 +71,9 @@
 ### easydeviceinfo ###
 
 [https://github.com/nisrulz/easydeviceinfo](https://github.com/nisrulz/easydeviceinfo)
+
+### ExpandableLayout ###
+[https://github.com/cachapa/ExpandableLayout](https://github.com/cachapa/ExpandableLayout)
+
+![](https://github.com/cachapa/ExpandableLayout/raw/master/images/expandable_fill.gif)
+
