@@ -77,3 +77,8 @@
 
 ![](https://github.com/cachapa/ExpandableLayout/raw/master/images/expandable_fill.gif)
 
+### GalleryView ###
+
+[https://github.com/sungerk/GalleryView](https://github.com/sungerk/GalleryView)
+
+![](https://camo.githubusercontent.com/806b11cf4dcdd87db1fe606081bf6a20c3b5dfb1/687474703a2f2f696d672e796f75747562652e636f6d2f76692f7a494c676f616879666a772f302e6a7067)
