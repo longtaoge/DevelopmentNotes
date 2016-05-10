@@ -94,3 +94,9 @@
 
 [https://github.com/nisrulz/sensey](https://github.com/nisrulz/sensey)
 
+
+### EffectiveShapeView ###
+
+[https://github.com/TangXiaoLv/EffectiveShapeView](https://github.com/TangXiaoLv/EffectiveShapeView)
+![](https://raw.githubusercontent.com/TangXiaoLv/EffectiveShapeView/master/png/first.jpg)
+
