@@ -67,6 +67,13 @@
 
 ![](https://raw.githubusercontent.com/jayrambhia/Tooltip/master/art/demo.gif)
 
+### BubbleLayout ###
+
+[https://github.com/MasayukiSuda/BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout)
+
+![](https://github.com/MasayukiSuda/BubbleLayout/raw/master/art/all.gif)
+
+
 
 ### easydeviceinfo ###
 
