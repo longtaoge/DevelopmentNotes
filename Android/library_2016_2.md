@@ -108,3 +108,14 @@
 [https://github.com/YoKeyword/Fragmentation](https://github.com/YoKeyword/Fragmentation)
 
 ![](https://github.com/YoKeyword/Fragmentation/raw/master/gif/demo.gif)
+
+
+
+### TagEditView ###
+
+[https://github.com/mabbas007/TagsEditText](https://github.com/mabbas007/TagsEditText)
+
+![](https://camo.githubusercontent.com/3a26ca3308d07d4040d9b6bea3dd65b0cc605516/687474703a2f2f692e696d6775722e636f6d2f5a4a596c734e4c2e706e673f33)
+
+
+
