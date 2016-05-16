@@ -14,3 +14,10 @@ Genymotion 插件
 
 [http://blog.csdn.net/royyeah/article/details/43266603](http://blog.csdn.net/royyeah/article/details/43266603)
 
+### AndroidViewGenerator ###
+
+
+[https://github.com/BigFootprint/AndroidViewGenerator](https://github.com/BigFootprint/AndroidViewGenerator)
+
+![](https://github.com/BigFootprint/AndroidViewGenerator/raw/master/resources/demoB.gif)
+
