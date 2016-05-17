@@ -118,4 +118,10 @@
 ![](https://camo.githubusercontent.com/3a26ca3308d07d4040d9b6bea3dd65b0cc605516/687474703a2f2f692e696d6775722e636f6d2f5a4a596c734e4c2e706e673f33)
 
 
+### Android Image Cropper ###
+
+
+[https://github.com/ArthurHub/Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)
+
+![](https://github.com/ArthurHub/Android-Image-Cropper/raw/master/art/demo.gif?raw=true)
 
