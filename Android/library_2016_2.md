@@ -125,3 +125,10 @@
 
 ![](https://github.com/ArthurHub/Android-Image-Cropper/raw/master/art/demo.gif?raw=true)
 
+### AnimSideBar ###
+
+
+[https://cloud.githubusercontent.com/assets/12408339/15278798/0df854a2-1b50-11e6-962e-15cb94ecc113.gif](https://cloud.githubusercontent.com/assets/12408339/15278798/0df854a2-1b50-11e6-962e-15cb94ecc113.gif)
+
+![](https://cloud.githubusercontent.com/assets/12408339/15278798/0df854a2-1b50-11e6-962e-15cb94ecc113.gif)
+
