@@ -132,3 +132,11 @@
 
 ![](https://cloud.githubusercontent.com/assets/12408339/15278798/0df854a2-1b50-11e6-962e-15cb94ecc113.gif)
 
+
+### Low Poly 图片生成器 ###
+
+
+[https://github.com/zzhoujay/LowPoly](https://github.com/zzhoujay/LowPoly)
+
+![](https://github.com/zzhoujay/LowPoly/raw/master/img/image.png)
+
