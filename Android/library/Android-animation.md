@@ -19,3 +19,18 @@
      15.路径动画（PathAnimation）
      16.多种自定义的Interpolate插值器
      17.SVG动画（SVGAnimationView）
+
+
+
+
+[[https://github.com/longtaoge/CDPlayerAnimation](https://github.com/longtaoge/CDPlayerAnimation)](https://github.com/paceboy/CDPlayerAnimation)
+
+![](https://github.com/longtaoge/CDPlayerAnimation/raw/master/cd.gif)
+
+
+### 仿墨迹天气动画 ###
+
+[https://github.com/xyzhang/mojichina](https://github.com/xyzhang/mojichina)
+
+![](https://raw.githubusercontent.com/xyzhang/mojichina/master/screen/moji2.gif)
+
