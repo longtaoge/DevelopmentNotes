@@ -13,11 +13,6 @@
 [https://github.com/AndroidBase/awesome-android-libraries](http://https://github.com/AndroidBase/awesome-android-libraries)
 
 
-### NiftyDialogEffects ###
-对话框
-[https://github.com/AndroidBase/NiftyDialogEffects](https://github.com/AndroidBase/NiftyDialogEffects)
-
-![](https://camo.githubusercontent.com/456687ac516bb07f1076928d635bfddf6b90d5ec/687474703a2f2f696d67302e70682e3132362e6e65742f69433436653162586b55316631724966555a6f3939773d3d2f363539373632303632313938343031393430382e676966)
 
 ### material-range-bar ###
 [https://github.com/longtaoge/material-range-bar](https://github.com/longtaoge/material-range-bar)
@@ -82,9 +77,7 @@
 
 ![](https://github.com/AndroidBase/pinned-section-listview/raw/master/screen2.png)![](https://github.com/AndroidBase/pinned-section-listview/raw/master/screen3.png)
 
-### SuperToasts ###
-[https://github.com/AndroidBase/SuperToasts](https://github.com/AndroidBase/SuperToasts)
-![](https://camo.githubusercontent.com/b52711b589229453cde3c15cebc921285f01d9b8/687474703a2f2f69313031362e70686f746f6275636b65742e636f6d2f616c62756d732f61663238342f547572626f70776e65642f7375706572746f617374735f67726f75705f73637265656e73686f745f74776f2e706e67)
+
 
 ### android-stackblur 毛玻璃 ###
 [https://github.com/AndroidBase/android-stackblur](https://github.com/AndroidBase/android-stackblur)
@@ -137,22 +130,7 @@
 
 ![](https://raw.githubusercontent.com/mikepenz/unsplash-android/master/DEV/screenshots/screenshot1_small.png)![](https://raw.githubusercontent.com/mikepenz/unsplash-android/master/DEV/screenshots/screenshot1_small.png)
 
-### CircleProgress ###
 
-[https://github.com/AndroidBase/CircleProgress](https://github.com/AndroidBase/CircleProgress)
-
-![](https://raw.githubusercontent.com/lzyzsd/CircleProgress/master/demos/circle_progress.gif)
-
-### android-circleprogress ###
-[https://github.com/kratorius/android-circleprogress](https://github.com/kratorius/android-circleprogress)
-
-![](https://github.com/kratorius/android-circleprogress/raw/master/demo/images/showcase.png)
-
-### CircleProgressBar-Android ###
-
-[https://github.com/AndroidBase/CircleProgressBar-Android](https://github.com/AndroidBase/CircleProgressBar-Android)
-
-![](https://github.com/AndroidBase/CircleProgressBar-Android/blob/master/CircleProgressBar-Android.gif)
 
 ### Android-Iconics ###
 
