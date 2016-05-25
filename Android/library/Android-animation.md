@@ -34,3 +34,8 @@
 
 ![](https://raw.githubusercontent.com/xyzhang/mojichina/master/screen/moji2.gif)
 
+### ArcAnimator ###
+
+[https://github.com/asyl/ArcAnimator](https://github.com/asyl/ArcAnimator)
+
+![](https://camo.githubusercontent.com/942dff1cf0e36fca72e5a6f513b0853c61dca7a9/687474703a2f2f692e696d6775722e636f6d2f445369517862672e676966)![](https://camo.githubusercontent.com/06e3d80b9d4377192f145758fb1046c366c1b3c8/687474703a2f2f692e696d6775722e636f6d2f614c634c72476b2e676966)

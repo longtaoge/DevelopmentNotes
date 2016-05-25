@@ -210,10 +210,7 @@
 
 ![](https://github.com/zhaozhentao/BooheeScrollView/raw/master/screenshot/screen.gif)
 
-### ArcAnimator ###
-[https://github.com/longtaoge/ArcAnimator](https://github.com/longtaoge/ArcAnimator)
 
-![](https://camo.githubusercontent.com/942dff1cf0e36fca72e5a6f513b0853c61dca7a9/687474703a2f2f692e696d6775722e636f6d2f445369517862672e676966)![](https://camo.githubusercontent.com/06e3d80b9d4377192f145758fb1046c366c1b3c8/687474703a2f2f692e696d6775722e636f6d2f614c634c72476b2e676966)
 
 ### SwipeBack ###
 [https://github.com/longtaoge/SwipeBack](https://github.com/longtaoge/SwipeBack)
@@ -226,10 +223,7 @@
 ![](https://raw.githubusercontent.com/kongnanlive/SearchMenuAnim/master/search.gif)
 
 
-### FabButton ###
-[https://github.com/longtaoge/FabButton](https://github.com/longtaoge/FabButton)
 
-![](https://github.com/longtaoge/FabButton/raw/master/example.gif)![](https://github.com/longtaoge/FabButton/raw/master/365.gif)
 
 ### ZDepthShadowLayout ###
 [https://github.com/longtaoge/ZDepthShadowLayout](https://github.com/longtaoge/ZDepthShadowLayout)
@@ -252,9 +246,7 @@
 [https://github.com/longtaoge/WaveView-1](https://github.com/longtaoge/WaveView-1)
 ![](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)
 
-### SmoothProgressBar ###
-[https://github.com/AndroidBase/SmoothProgressBar](https://github.com/AndroidBase/SmoothProgressBar)
-![](https://github.com/AndroidBase/SmoothProgressBar/raw/master/screenshots/SPB_sample.gif)
+
 
 ### LDrawer ###
 [https://github.com/longtaoge/LDrawer](https://github.com/longtaoge/LDrawer)
@@ -393,11 +385,7 @@
 		4/6/2015 10:19:41 PM 
 ----------
 
-### Sweet Alert Dialog ###
-[https://github.com/longtaoge/sweet-alert-dialog](https://github.com/longtaoge/sweet-alert-dialog)
-![](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
-				4/7/2015 8:33:29 PM 
-----------
+
 
 ### Scrollable ###
 [https://github.com/longtaoge/Scrollable](https://github.com/longtaoge/Scrollable)
@@ -494,12 +482,7 @@
 ![](https://github.com/chenqian2651489/PopZoomGallery/raw/master/Untitled.gif)
 
 ----------
-### loadtoast ###
 
-[https://github.com/longtaoge/loadtoast.git](https://github.com/longtaoge/loadtoast.git)
-
-![](https://camo.githubusercontent.com/96592555c77792a317564369f8ff53bafcba2a13/687474703a2f2f692e696d6775722e636f6d2f57776f784c4d752e676966)
-----------
 ### AndroidTreeView ###
 [https://github.com/longtaoge/AndroidTreeView](https://github.com/longtaoge/AndroidTreeView)
 
@@ -522,10 +505,7 @@
 ![](https://github.com/JayFang1993/DropDownMenu/raw/master/screenshot.gif)
 
 ----------
-### loading ###
-[https://github.com/longtaoge/Loading](https://github.com/longtaoge/Loading)
 
-![](https://github.com/longtaoge/Loading/blob/master/loding.gif)
 ----------
 
 ### PhotoView ###
@@ -580,11 +560,7 @@
 ![](https://cloud.githubusercontent.com/assets/1386930/7614211/53ca12d8-f9d0-11e4-8b98-b6d98272f67d.gif)
 
 ----------
-### MarkView ###
 
-[https://github.com/longtaoge/MarkView](https://github.com/longtaoge/MarkView)
-
-![](https://camo.githubusercontent.com/fd7c14629d51fed962eff7f807e47ac3231c52f8/687474703a2f2f7075752e73682f684a6b57512f376632353938636236322e706e67)
 
 ----------
 ### material-cab ###

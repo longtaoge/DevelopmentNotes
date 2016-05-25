@@ -12,7 +12,15 @@
 
 
 
+### Sweet Alert Dialog ###
 
+[https://github.com/pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
+
+
+![](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
+				
+
+----------
 
 
 
@@ -41,7 +49,12 @@
 ![](https://camo.githubusercontent.com/b52711b589229453cde3c15cebc921285f01d9b8/687474703a2f2f69313031362e70686f746f6275636b65742e636f6d2f616c62756d732f61663238342f547572626f70776e65642f7375706572746f617374735f67726f75705f73637265656e73686f745f74776f2e706e67)
 
 
+### loadtoast ###
 
+[https://github.com/code-mc/loadtoast](https://github.com/code-mc/loadtoast)
+
+![](https://camo.githubusercontent.com/96592555c77792a317564369f8ff53bafcba2a13/687474703a2f2f692e696d6775722e636f6d2f57776f784c4d752e676966)
+----------
 
 
 
