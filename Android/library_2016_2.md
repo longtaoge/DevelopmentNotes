@@ -154,3 +154,8 @@
 
 ![](https://raw.githubusercontent.com/stephentuso/welcome-android/master/media/sample-video.gif)
 
+### MarqueeView ###
+
+[https://github.com/sfsheng0322/MarqueeView](https://github.com/sfsheng0322/MarqueeView)
+
+![](https://github.com/sfsheng0322/MarqueeView/raw/master/screenshot/MarqueeView_Gif.gif)
