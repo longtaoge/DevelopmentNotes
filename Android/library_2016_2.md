@@ -159,3 +159,8 @@
 [https://github.com/sfsheng0322/MarqueeView](https://github.com/sfsheng0322/MarqueeView)
 
 ![](https://github.com/sfsheng0322/MarqueeView/raw/master/screenshot/MarqueeView_Gif.gif)
+
+### AndroidCommon ###
+
+[https://github.com/h4de5ing/AndroidCommon](https://github.com/h4de5ing/AndroidCommon)
+
