@@ -172,3 +172,9 @@
 
 ![](https://github.com/Zomato/AndroidPhotoFilters/raw/master/art/photofilters.gif)
 
+
+### RecyclerViewUndoSwipe ###
+
+[https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe)
+
+![](https://camo.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966)
