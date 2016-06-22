@@ -191,3 +191,8 @@
 [https://github.com/qs-lll/ExpandingPager](https://github.com/qs-lll/ExpandingPager)
 
 ![](https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif)
+
+### Compressor ###
+
+[https://github.com/zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor)
+![](https://raw.githubusercontent.com/zetbaitsu/Compressor/master/ss.png)
