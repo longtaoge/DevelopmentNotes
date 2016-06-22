@@ -187,3 +187,7 @@
 
 ![](https://github.com/loopeer/CardStackView/raw/master/screenshot/screenshot1.gif)
 
+### ExpandingPager ###
+[https://github.com/qs-lll/ExpandingPager](https://github.com/qs-lll/ExpandingPager)
+
+![](https://github.com/qs-lll/ExpandingPager/raw/master/img/ExpandingPager.gif)
