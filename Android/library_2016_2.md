@@ -224,3 +224,9 @@
 
 ![](https://github.com/yoruriko/LiquidButton/raw/master/demo.gif)
 
+
+### SwipeCardsView ###
+
+[https://github.com/huxq17/SwipeCardsView](https://github.com/huxq17/SwipeCardsView)
+
+![](https://github.com/huxq17/SwipeCardsView/raw/master/gif/pic2.gif)
