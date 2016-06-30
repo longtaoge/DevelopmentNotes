@@ -230,3 +230,9 @@
 [https://github.com/huxq17/SwipeCardsView](https://github.com/huxq17/SwipeCardsView)
 
 ![](https://github.com/huxq17/SwipeCardsView/raw/master/gif/pic2.gif)
+
+### LoadingView ###
+
+[https://github.com/ldoublem/LoadingView](https://github.com/ldoublem/LoadingView)
+
+![](https://github.com/ldoublem/LoadingView/raw/master/screen/%E6%95%88%E6%9E%9C.gif)
