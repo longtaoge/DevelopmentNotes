@@ -245,3 +245,9 @@ ormlite 示例程序
 
 ![](https://camo.githubusercontent.com/cfc697391e871690e0092c3a0c24421a6355e021/687474703a2f2f692e696d6775722e636f6d2f7a4c7777546e6a2e6a7067)
 
+
+
+### ClickItem  事件传递 ###
+[https://github.com/longtaoge/ClickItem](https://github.com/longtaoge/ClickItem)
+
+![](https://github.com/longtaoge/ClickItem/raw/a7bfe6727f26a6151f850eb405333fb95b75dcbc/app/src/main/res/drawable/demo.png)
