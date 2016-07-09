@@ -237,5 +237,9 @@
 
 ![](https://github.com/ldoublem/LoadingView/raw/master/screen/%E6%95%88%E6%9E%9C.gif)
 
+### FocusResize ###
+[https://github.com/borjabravo10/FocusResize](https://github.com/borjabravo10/FocusResize)
+
+![](https://github.com/borjabravo10/FocusResize/raw/master/resources/focusResize.gif)
 
 
