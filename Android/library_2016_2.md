@@ -247,3 +247,9 @@
 [https://github.com/ldoublem/PaperShredder](https://github.com/ldoublem/PaperShredder)
 
 ![](https://github.com/ldoublem/PaperShredder/raw/master/screenshot/shot.png)
+
+### Scroll Number Widget ###
+
+[https://github.com/a-voyager/ScrollNumber](https://github.com/a-voyager/ScrollNumber)
+
+![](https://github.com/a-voyager/ScrollNumber/raw/master/imgs/01.gif)
