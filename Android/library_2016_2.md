@@ -242,4 +242,8 @@
 
 ![](https://github.com/borjabravo10/FocusResize/raw/master/resources/focusResize.gif)
 
+### PaperShredder  碎纸机动画 ###
 
+[https://github.com/ldoublem/PaperShredder](https://github.com/ldoublem/PaperShredder)
+
+![](https://github.com/ldoublem/PaperShredder/raw/master/screenshot/shot.png)
