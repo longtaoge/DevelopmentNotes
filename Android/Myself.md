@@ -251,3 +251,12 @@ ormlite 示例程序
 [https://github.com/longtaoge/ClickItem](https://github.com/longtaoge/ClickItem)
 
 ![](https://github.com/longtaoge/ClickItem/raw/a7bfe6727f26a6151f850eb405333fb95b75dcbc/app/src/main/res/drawable/demo.png)
+
+### SwitchVsIf ###
+
+[https://github.com/longtaoge/SwitchVsIf](https://github.com/longtaoge/SwitchVsIf)
+
+
+![](https://github.com/longtaoge/SwitchVsIf/blob/e46719a9e0f2bb97424e1db9ef7e052da356c36f/app/src/main/res/mipmap-xxhdpi/vs1.png)
+
+
