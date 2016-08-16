@@ -23,6 +23,13 @@
 
 ![](https://github.com/binIoter/GuideView/raw/master/app/src/main/res/assets/review.gif)
 
+### StickerView ###
+
+[https://github.com/wuapnjie/StickerView](https://github.com/wuapnjie/StickerView)
+
+![](https://github.com/wuapnjie/StickerView/raw/master/screenshots/stickerview.gif)
+
+
 
 
 
