@@ -44,3 +44,11 @@
 [https://github.com/hitherejoe/Constraints](https://github.com/hitherejoe/Constraints)
 
 ![](https://github.com/hitherejoe/Constraints/raw/master/images/constraintlayout.png)
+
+
+### Advanced RecyclerView ###
+
+[https://github.com/h6ah4i/android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)
+
+![](https://camo.githubusercontent.com/8be2abfcdf6b7d7975cb164a01e96ccfd926895f/687474703a2f2f696d672e796f75747562652e636f6d2f76692f53376353774d41726a55512f302e6a7067)
+
