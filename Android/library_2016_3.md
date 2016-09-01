@@ -58,4 +58,10 @@
 
 ![](https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966)
 
+### RecyclerViewSnap ###
+
+[https://github.com/rubensousa/RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap)
+
+![](https://github.com/rubensousa/RecyclerViewSnap/raw/master/screens/snap_googleplay.gif)
+
 
