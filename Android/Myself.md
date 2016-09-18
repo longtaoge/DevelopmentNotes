@@ -260,3 +260,7 @@ ormlite 示例程序
 ![](https://github.com/longtaoge/SwitchVsIf/blob/e46719a9e0f2bb97424e1db9ef7e052da356c36f/app/src/main/res/mipmap-xxhdpi/vs1.png)
 
 
+### StickyHeaderDemo ###
+
+[https://github.com/longtaoge/StickyHeaderDemo](https://github.com/longtaoge/StickyHeaderDemo)
+![](https://github.com/longtaoge/StickyHeaderDemo/raw/0271ada93e4014635d3441690c1820bc960bebde/app/libs/device.png)
