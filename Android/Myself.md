@@ -264,3 +264,20 @@ ormlite 示例程序
 
 [https://github.com/longtaoge/StickyHeaderDemo](https://github.com/longtaoge/StickyHeaderDemo)
 ![](https://github.com/longtaoge/StickyHeaderDemo/raw/0271ada93e4014635d3441690c1820bc960bebde/app/libs/device.png)
+
+### tinkerDemo
+
+[https://github.com/longtaoge/tinkerDemo](https://github.com/longtaoge/tinkerDemo)
+
+![https://github.com/longtaoge/tinkerDemo/raw/master/app/src/main/res/drawable/tinker31.jpg](https://github.com/longtaoge/tinkerDemo/raw/master/app/src/main/res/drawable/tinker31.jpg)
+
+### MultiChannelBuildDemo
+
+
+[https://github.com/longtaoge/MultiChannelBuildDemo](https://github.com/longtaoge/MultiChannelBuildDemo)
+
+
+![https://github.com/longtaoge/MultiChannelBuildDemo/blob/2c841f0c7a2ce21fd136907fc24e3624a3114fce/app/src/main/res/mipmap-xxxhdpi/image1.jpg](https://github.com/longtaoge/MultiChannelBuildDemo/blob/2c841f0c7a2ce21fd136907fc24e3624a3114fce/app/src/main/res/mipmap-xxxhdpi/image1.jpg)
+
+
+
