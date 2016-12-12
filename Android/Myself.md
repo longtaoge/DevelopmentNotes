@@ -280,4 +280,12 @@ ormlite 示例程序
 ![https://github.com/longtaoge/MultiChannelBuildDemo/blob/2c841f0c7a2ce21fd136907fc24e3624a3114fce/app/src/main/res/mipmap-xxxhdpi/image1.jpg](https://github.com/longtaoge/MultiChannelBuildDemo/blob/2c841f0c7a2ce21fd136907fc24e3624a3114fce/app/src/main/res/mipmap-xxxhdpi/image1.jpg)
 
 
+### HttpsDemo
+
+[https://github.com/longtaoge/HttpsDemo]( https://github.com/longtaoge/HttpsDemo)
+
+
+
+
+
 

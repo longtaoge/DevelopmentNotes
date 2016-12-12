@@ -17,3 +17,4 @@
 [](https://github.com/BelooS/ChipsLayoutManager)
 
 ![](https://github.com/BelooS/ChipsLayoutManager/raw/master/images/demo.gif)
+
