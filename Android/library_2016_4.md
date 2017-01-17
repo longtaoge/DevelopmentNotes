@@ -19,7 +19,7 @@
 ![](https://github.com/BelooS/ChipsLayoutManager/raw/master/images/demo.gif)
 
 
-### ZuiMeiTAG 
+### ZuiMeiTAG
 [](https://github.com/huage2580/ZuiMeiTAG)
 
 ![](https://github.com/huage2580/ZuiMeiTAG/raw/master/hello.gif)
@@ -43,15 +43,7 @@
 
 ![](https://github.com/Quatja/Vorolay/raw/master/Screenshots/screenshot_2.png)
 
+###DragScrollDetailsLayout
 
-
-
-
-
-
-
-
-
-
-
-
+[](https://github.com/happylishang/DragScrollDetailsLayout)
+![](https://github.com/happylishang/DragScrollDetailsLayout/raw/master/video/scrollview%2Bviewpager.gif)
