@@ -71,4 +71,14 @@
 
 ![](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/text-inside-button.gif)
 
+
+
+###PreviewSeekBar
+[](https://github.com/rubensousa/PreviewSeekBar)
+
+![](https://github.com/rubensousa/PreviewSeekBar/raw/master/screenshots/playmovies.gif)
+
+
+
+
 　
