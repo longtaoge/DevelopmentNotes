@@ -66,7 +66,7 @@
 [https://github.com/longtaoge/android-1/tree/master](https://github.com/longtaoge/android-1/tree/master)
 ![](https://github.com/longtaoge/android-1/blob/master/utils.gif)
 
-	3/31/2015 11:59:22 PM 
+	3/31/2015 11:59:22 PM
 ----------
 ### java 工具类 ###
 [https://github.com/longtaoge/utils](https://github.com/longtaoge/utils)
@@ -87,3 +87,7 @@
 
 ![](https://github.com/google/android-classyshark/raw/master/Resources/ClassySharkAnimated.gif)
 
+
+
+### AndroidUtilCode ###
+[https://github.com/Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
