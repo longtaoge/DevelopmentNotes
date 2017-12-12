@@ -286,6 +286,13 @@ ormlite 示例程序
 
 
 
+### xiangbalao
+[https://github.com/longtaoge/longtaoge-cli](https://github.com/longtaoge/longtaoge-cli)
+
+[https://github.com/longtaoge/xiangbalao](https://github.com/longtaoge/xiangbalao)
+
+[https://github.com/longtaoge/longtaoge](https://github.com/longtaoge/longtaoge)
 
 
 
+![https://github.com/longtaoge/xiangbalao/raw/master/Resource/other/1.png](https://github.com/longtaoge/xiangbalao/raw/master/Resource/other/1.png)
