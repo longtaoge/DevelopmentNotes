@@ -1,0 +1,69 @@
+apply plugin: 'com.android.application'
+apply from: "./config/commonConfig.gradle"
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+
+    signingConfigs {
+        release {
+            keyAlias "longtaoge"
+            keyPassword '123456'
+            storeFile file("./longtaoge.jks")
+            storePassword '123456'
+            v2SigningEnabled false
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    defaultConfig {
+        applicationId "org.xiangbalao.common.gradledemo"
+
+        minSdkVersion 17
+
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+        flavorDimensions "difault"
+        targetSdkVersion 28
+
+    }
+
+
+    buildTypes {
+
+        debug {
+
+            signingConfig signingConfigs.release
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+
+    productFlavors {
+        longtaoge  gradle.ext.LONGTAOGE
+        xiangbalao gradle.ext.XIANGBALAO
+
+    }
+
+}
+
+
+
+
+dependencies {
+    //  implementation fileTree(dir: 'libs', include: ['*.jar'])
+    //// implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    implementation 'com.android.support:design:28.0.0'
+    implementation 'com.android.support:support-annotations:28.0.0'
+}

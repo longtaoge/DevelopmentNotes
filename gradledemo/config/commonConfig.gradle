@@ -1,0 +1,17 @@
+gradle.ext {
+
+    LONGTAOGE ={
+        apply from: "./config/longtaogeConfig.gradle"
+        versionCode = gradle.ext.VERSIONCODE
+        applicationId = gradle.ext.APPLICATIONID
+
+    }
+
+    XIANGBALAO ={
+        apply from: "./config/xiangbalaoConfig.gradle"
+        versionCode = gradle.ext.VERSIONCODE
+        applicationId =gradle.ext.APPLICATIONID
+    }
+
+
+}

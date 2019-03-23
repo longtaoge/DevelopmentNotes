@@ -1,0 +1,8 @@
+gradle.ext {
+
+    APPLICATIONID ="org.xiangbalao"
+    MINSDKVERSION =17
+    VERSIONCODE =1
+    VERSIONNAME ="1.0"
+
+}

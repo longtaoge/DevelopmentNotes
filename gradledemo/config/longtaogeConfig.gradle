@@ -1,0 +1,9 @@
+gradle.ext {
+
+    APPLICATIONID ="com.longtaoge"
+    applicationId = gradle.ext.APPLICATIONID
+    MINSDKVERSION =17
+    VERSIONCODE =1
+    VERSIONNAME ="1.0"
+
+}
