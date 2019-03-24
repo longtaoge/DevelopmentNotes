@@ -4,5 +4,5 @@ gradle.ext {
     MINSDKVERSION =17
     VERSIONCODE =1
     VERSIONNAME ="1.0"
-
+    STOREFILE= file("./longtaoge.jks")
 }

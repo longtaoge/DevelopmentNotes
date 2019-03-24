@@ -1,10 +1,7 @@
 apply plugin: 'com.android.application'
-apply from: "./config/commonConfig.gradle"
 android {
     compileSdkVersion 28
     buildToolsVersion "28.0.3"
-
-
     signingConfigs {
         release {
             keyAlias "longtaoge"
@@ -22,9 +19,7 @@ android {
 
     defaultConfig {
         applicationId "org.xiangbalao.common.gradledemo"
-
         minSdkVersion 17
-
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
@@ -35,9 +30,7 @@ android {
 
 
     buildTypes {
-
         debug {
-
             signingConfig signingConfigs.release
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
@@ -51,15 +44,31 @@ android {
 
 
     productFlavors {
-        longtaoge  gradle.ext.LONGTAOGE
-        xiangbalao gradle.ext.XIANGBALAO
+        longtaoge getProduct(longtaoge)
+        xiangbalao getProduct(xiangbalao)
 
     }
+
 
 }
 
 
+def getProduct(String name) {
 
+    getConfig(name)
+
+    return {
+        versionCode gradle.ext.VERSIONCODE
+        applicationId gradle.ext.APPLICATIONID
+        android.signingConfigs.release.storeFile gradle.ext.STOREFILE
+    }
+}
+
+
+def getConfig(String name) {
+    String configPath = "./config/" + name + "Config.gradle"
+    apply from: configPath
+}
 
 dependencies {
     //  implementation fileTree(dir: 'libs', include: ['*.jar'])

@@ -1,9 +1,9 @@
 gradle.ext {
 
-    APPLICATIONID ="com.longtaoge"
-    applicationId = gradle.ext.APPLICATIONID
+    APPLICATIONID ="com.longtaoge.app"
     MINSDKVERSION =17
     VERSIONCODE =1
     VERSIONNAME ="1.0"
+    STOREFILE= file("./longtaoge.jks")
 
 }
