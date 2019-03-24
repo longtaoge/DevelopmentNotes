@@ -53,9 +53,9 @@ android {
 }
 
 
-def getProduct(String name) {
+def getProduct(String favorsName) {
 
-    getConfig(name)
+    getConfig(favorsName)
 
     return {
         versionCode gradle.ext.VERSIONCODE
@@ -65,8 +65,8 @@ def getProduct(String name) {
 }
 
 
-def getConfig(String name) {
-    String configPath = "./config/" + name + "Config.gradle"
+def getConfig(String favorsName) {
+    String configPath = "./config/" + favorsName + "Config.gradle"
     apply from: configPath
 }
 
